@@ -1,31 +1,31 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estermenniti.it" resolutions="1x" timestamp="1492622138297">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estermenniti.it" resolutions="1x" timestamp="1492622880590">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-mastro.css" crc="190306388" ref="info:staff:neonati:ritratti:studio:contatti:chi-sono:index:matrimoni:maternità:prezzi"/>
-    <file name="nomq_preview_master_a-mastro.css" crc="407927989" ref="info:staff:neonati:ritratti:studio:contatti:chi-sono:index:matrimoni:maternità:prezzi"/>
-    <file name="info.css" crc="280404968" ref="info"/>
-    <file name="nomq_info.css" crc="465444851" ref="info"/>
-    <file name="staff.css" crc="73662827" ref="staff"/>
-    <file name="nomq_staff.css" crc="3763159974" ref="staff"/>
-    <file name="neonati.css" crc="436825295" ref="neonati"/>
-    <file name="nomq_neonati.css" crc="92474307" ref="neonati"/>
-    <file name="ritratti.css" crc="4070366238" ref="ritratti"/>
-    <file name="nomq_ritratti.css" crc="4265862502" ref="ritratti"/>
-    <file name="studio.css" crc="415949045" ref="studio"/>
-    <file name="nomq_studio.css" crc="495360711" ref="studio"/>
-    <file name="contatti.css" crc="305358513" ref="contatti"/>
-    <file name="nomq_contatti.css" crc="327378742" ref="contatti"/>
-    <file name="chi-sono.css" crc="4250595056" ref="chi-sono"/>
-    <file name="nomq_chi-sono.css" crc="34424564" ref="chi-sono"/>
+    <file name="master_a-mastro.css" crc="295565089" ref="info:staff:neonati:ritratti:studio:contatti:chi-sono:index:matrimoni:maternità:prezzi"/>
+    <file name="nomq_preview_master_a-mastro.css" crc="392968101" ref="info:staff:neonati:ritratti:studio:contatti:chi-sono:index:matrimoni:maternità:prezzi"/>
+    <file name="info.css" crc="197637460" ref="info"/>
+    <file name="nomq_info.css" crc="172282248" ref="info"/>
+    <file name="staff.css" crc="36812978" ref="staff"/>
+    <file name="nomq_staff.css" crc="3879447897" ref="staff"/>
+    <file name="neonati.css" crc="267205353" ref="neonati"/>
+    <file name="nomq_neonati.css" crc="4098330074" ref="neonati"/>
+    <file name="ritratti.css" crc="331434226" ref="ritratti"/>
+    <file name="nomq_ritratti.css" crc="364226955" ref="ritratti"/>
+    <file name="studio.css" crc="3798293946" ref="studio"/>
+    <file name="nomq_studio.css" crc="195668983" ref="studio"/>
+    <file name="contatti.css" crc="203260586" ref="contatti"/>
+    <file name="nomq_contatti.css" crc="3775461121" ref="contatti"/>
+    <file name="chi-sono.css" crc="3914781098" ref="chi-sono"/>
+    <file name="nomq_chi-sono.css" crc="17943131" ref="chi-sono"/>
     <file name="iefonts_chi-sono.css" crc="3824530138" ref="chi-sono"/>
-    <file name="index.css" crc="3884851526" ref="index"/>
-    <file name="nomq_index.css" crc="3794049900" ref="index"/>
-    <file name="matrimoni.css" crc="3856018157" ref="matrimoni"/>
-    <file name="nomq_matrimoni.css" crc="3845274504" ref="matrimoni"/>
-    <file name="maternit_.css" crc="265201207" ref="maternità"/>
-    <file name="nomq_maternit_.css" crc="4164772814" ref="maternità"/>
-    <file name="prezzi.css" crc="334944535" ref="prezzi"/>
-    <file name="nomq_prezzi.css" crc="366340697" ref="prezzi"/>
+    <file name="index.css" crc="3805791252" ref="index"/>
+    <file name="nomq_index.css" crc="86273254" ref="index"/>
+    <file name="matrimoni.css" crc="33580975" ref="matrimoni"/>
+    <file name="nomq_matrimoni.css" crc="345097738" ref="matrimoni"/>
+    <file name="maternit_.css" crc="162498660" ref="maternità"/>
+    <file name="nomq_maternit_.css" crc="3820925382" ref="maternità"/>
+    <file name="prezzi.css" crc="3995418807" ref="prezzi"/>
+    <file name="nomq_prezzi.css" crc="296290207" ref="prezzi"/>
     <file name="iefonts_prezzi.css" crc="3824530138" ref="prezzi"/>
   </folder>
   <folder name="fonts">
@@ -94,25 +94,19 @@
   </folder>
   <folder name="images">
     <file name="sfondo_testata_menu.png" crc="304609523" seo="true" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:maternità:prezzi">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="studio" alt=""/>
       <caption webpage="info" alt=""/>
       <caption webpage="info" alt=""/>
       <caption webpage="info" alt=""/>
       <caption webpage="info" alt=""/>
       <caption webpage="info" alt=""/>
       <caption webpage="info" alt=""/>
-      <caption webpage="materintà" alt=""/>
-      <caption webpage="materintà" alt=""/>
-      <caption webpage="materintà" alt=""/>
-      <caption webpage="materintà" alt=""/>
-      <caption webpage="materintà" alt=""/>
-      <caption webpage="materintà" alt=""/>
       <caption webpage="neonati" alt=""/>
       <caption webpage="neonati" alt=""/>
       <caption webpage="neonati" alt=""/>
@@ -137,13 +131,13 @@
       <caption webpage="ritratti" alt=""/>
       <caption webpage="ritratti" alt=""/>
       <caption webpage="ritratti" alt=""/>
-      <caption webpage="studio" alt=""/>
-      <caption webpage="studio" alt=""/>
-      <caption webpage="studio" alt=""/>
-      <caption webpage="studio" alt=""/>
-      <caption webpage="studio" alt=""/>
-      <caption webpage="studio" alt=""/>
-      <caption webpage="studio" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
@@ -163,6 +157,12 @@
       <caption webpage="staff" alt=""/>
       <caption webpage="staff" alt=""/>
       <caption webpage="staff" alt=""/>
+      <caption webpage="materintà" alt=""/>
+      <caption webpage="materintà" alt=""/>
+      <caption webpage="materintà" alt=""/>
+      <caption webpage="materintà" alt=""/>
+      <caption webpage="materintà" alt=""/>
+      <caption webpage="materintà" alt=""/>
       <caption webpage="matrimoni" alt=""/>
       <caption webpage="matrimoni" alt=""/>
       <caption webpage="matrimoni" alt=""/>
@@ -171,25 +171,19 @@
       <caption webpage="matrimoni" alt=""/>
     </file>
     <file name="sfondo_footer.png" crc="362648514" seo="true" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:maternità:prezzi">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="studio" alt=""/>
       <caption webpage="info" alt=""/>
       <caption webpage="info" alt=""/>
       <caption webpage="info" alt=""/>
       <caption webpage="info" alt=""/>
       <caption webpage="info" alt=""/>
       <caption webpage="info" alt=""/>
-      <caption webpage="materintà" alt=""/>
-      <caption webpage="materintà" alt=""/>
-      <caption webpage="materintà" alt=""/>
-      <caption webpage="materintà" alt=""/>
-      <caption webpage="materintà" alt=""/>
-      <caption webpage="materintà" alt=""/>
       <caption webpage="neonati" alt=""/>
       <caption webpage="neonati" alt=""/>
       <caption webpage="neonati" alt=""/>
@@ -214,13 +208,13 @@
       <caption webpage="ritratti" alt=""/>
       <caption webpage="ritratti" alt=""/>
       <caption webpage="ritratti" alt=""/>
-      <caption webpage="studio" alt=""/>
-      <caption webpage="studio" alt=""/>
-      <caption webpage="studio" alt=""/>
-      <caption webpage="studio" alt=""/>
-      <caption webpage="studio" alt=""/>
-      <caption webpage="studio" alt=""/>
-      <caption webpage="studio" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
@@ -240,6 +234,12 @@
       <caption webpage="staff" alt=""/>
       <caption webpage="staff" alt=""/>
       <caption webpage="staff" alt=""/>
+      <caption webpage="materintà" alt=""/>
+      <caption webpage="materintà" alt=""/>
+      <caption webpage="materintà" alt=""/>
+      <caption webpage="materintà" alt=""/>
+      <caption webpage="materintà" alt=""/>
+      <caption webpage="materintà" alt=""/>
       <caption webpage="matrimoni" alt=""/>
       <caption webpage="matrimoni" alt=""/>
       <caption webpage="matrimoni" alt=""/>
@@ -338,36 +338,36 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="mobile_menu_open.png" crc="4082109685" ref="index:chi-sono">
-      <caption webpage="index" alt=" "/>
-      <caption webpage="index" alt=" "/>
-      <caption webpage="index" alt=" "/>
-      <caption webpage="index" alt=" "/>
+      <caption webpage="studio" alt=" "/>
+      <caption webpage="studio" alt=" "/>
+      <caption webpage="studio" alt=" "/>
+      <caption webpage="studio" alt=" "/>
       <caption webpage="neonati" alt=" "/>
       <caption webpage="matrimoni" alt=" "/>
       <caption webpage="matrimoni" alt=" "/>
       <caption webpage="matrimoni" alt=" "/>
-      <caption webpage="studio" alt=" "/>
-      <caption webpage="studio" alt=" "/>
-      <caption webpage="studio" alt=" "/>
-      <caption webpage="studio" alt=" "/>
+      <caption webpage="index" alt=" "/>
+      <caption webpage="index" alt=" "/>
+      <caption webpage="index" alt=" "/>
+      <caption webpage="index" alt=" "/>
       <caption webpage="prezzi" alt=" "/>
       <caption webpage="staff" alt=" "/>
       <caption webpage="staff" alt=" "/>
       <caption webpage="chi-sono" alt=" "/>
     </file>
     <file name="mobile_menu_close.png" crc="4062498203" ref="index:chi-sono">
-      <caption webpage="index" alt=" "/>
-      <caption webpage="index" alt=" "/>
-      <caption webpage="index" alt=" "/>
-      <caption webpage="index" alt=" "/>
+      <caption webpage="studio" alt=" "/>
+      <caption webpage="studio" alt=" "/>
+      <caption webpage="studio" alt=" "/>
+      <caption webpage="studio" alt=" "/>
       <caption webpage="neonati" alt=" "/>
       <caption webpage="matrimoni" alt=" "/>
       <caption webpage="matrimoni" alt=" "/>
       <caption webpage="matrimoni" alt=" "/>
-      <caption webpage="studio" alt=" "/>
-      <caption webpage="studio" alt=" "/>
-      <caption webpage="studio" alt=" "/>
-      <caption webpage="studio" alt=" "/>
+      <caption webpage="index" alt=" "/>
+      <caption webpage="index" alt=" "/>
+      <caption webpage="index" alt=" "/>
+      <caption webpage="index" alt=" "/>
       <caption webpage="prezzi" alt=" "/>
       <caption webpage="staff" alt=" "/>
       <caption webpage="staff" alt=" "/>
@@ -6470,15 +6470,15 @@
       <caption webpage="prezzi" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4294244164" seo="true" mt="1492620833077" redirect="true"/>
-  <file name="chi-sono.html" crc="3890322930" seo="true" mt="1492620833077" redirect="true"/>
-  <file name="ritratti.html" crc="127568681" seo="true" mt="1492620833077" redirect="true"/>
-  <file name="matrimoni.html" crc="4206927720" seo="true" mt="1492620833077" redirect="true"/>
-  <file name="neonati.html" crc="159354621" seo="true" mt="1492620833077" redirect="true"/>
-  <file name="contatti.html" crc="2630114" seo="true" mt="1492620833077" redirect="true"/>
-  <file name="info.html" crc="3806683422" seo="true" mt="1492620833077" redirect="true"/>
-  <file name="studio.html" crc="4211926106" seo="true" mt="1492620833077" redirect="true"/>
-  <file name="staff.html" crc="4034982716" seo="true" mt="1492620833077" redirect="true"/>
-  <file name="maternità.html" crc="338039528" seo="true" mt="1492620833077" redirect="true"/>
-  <file name="prezzi.html" crc="4291560731" seo="true" mt="1492621535314" redirect="true"/>
+  <file name="index.html" crc="3779102488" seo="true" mt="1492622766547" redirect="true"/>
+  <file name="chi-sono.html" crc="3955081163" seo="true" mt="1492622766547" redirect="true"/>
+  <file name="ritratti.html" crc="4108730663" seo="true" mt="1492622766547" redirect="true"/>
+  <file name="matrimoni.html" crc="3032156" seo="true" mt="1492622766547" redirect="true"/>
+  <file name="neonati.html" crc="3808133932" seo="true" mt="1492622766547" redirect="true"/>
+  <file name="contatti.html" crc="263550462" seo="true" mt="1492622766547" redirect="true"/>
+  <file name="info.html" crc="275875420" seo="true" mt="1492622766547" redirect="true"/>
+  <file name="studio.html" crc="189817687" seo="true" mt="1492622766547" redirect="true"/>
+  <file name="staff.html" crc="15881782" seo="true" mt="1492622766547" redirect="true"/>
+  <file name="maternità.html" crc="386230781" seo="true" mt="1492622766547" redirect="true"/>
+  <file name="prezzi.html" crc="207430932" seo="true" mt="1492622766809" redirect="true"/>
 </manifest>
