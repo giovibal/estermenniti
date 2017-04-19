@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estermenniti.it" resolutions="1x" timestamp="1492613562348">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estermenniti.it" resolutions="1x" timestamp="1492622138297">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-mastro.css" crc="3793631829" ref="info:staff:neonati:ritratti:studio:contatti:chi-sono:index:matrimoni:maternità:prezzi"/>
-    <file name="nomq_preview_master_a-mastro.css" crc="303253297" ref="info:staff:neonati:ritratti:studio:contatti:chi-sono:index:matrimoni:maternità:prezzi"/>
+    <file name="master_a-mastro.css" crc="190306388" ref="info:staff:neonati:ritratti:studio:contatti:chi-sono:index:matrimoni:maternità:prezzi"/>
+    <file name="nomq_preview_master_a-mastro.css" crc="407927989" ref="info:staff:neonati:ritratti:studio:contatti:chi-sono:index:matrimoni:maternità:prezzi"/>
     <file name="info.css" crc="280404968" ref="info"/>
     <file name="nomq_info.css" crc="465444851" ref="info"/>
     <file name="staff.css" crc="73662827" ref="staff"/>
@@ -11,8 +11,8 @@
     <file name="nomq_neonati.css" crc="92474307" ref="neonati"/>
     <file name="ritratti.css" crc="4070366238" ref="ritratti"/>
     <file name="nomq_ritratti.css" crc="4265862502" ref="ritratti"/>
-    <file name="studio.css" crc="4136497174" ref="studio"/>
-    <file name="nomq_studio.css" crc="4134358882" ref="studio"/>
+    <file name="studio.css" crc="415949045" ref="studio"/>
+    <file name="nomq_studio.css" crc="495360711" ref="studio"/>
     <file name="contatti.css" crc="305358513" ref="contatti"/>
     <file name="nomq_contatti.css" crc="327378742" ref="contatti"/>
     <file name="chi-sono.css" crc="4250595056" ref="chi-sono"/>
@@ -24,8 +24,8 @@
     <file name="nomq_matrimoni.css" crc="3845274504" ref="matrimoni"/>
     <file name="maternit_.css" crc="265201207" ref="maternità"/>
     <file name="nomq_maternit_.css" crc="4164772814" ref="maternità"/>
-    <file name="prezzi.css" crc="4178773650" ref="prezzi"/>
-    <file name="nomq_prezzi.css" crc="286504448" ref="prezzi"/>
+    <file name="prezzi.css" crc="334944535" ref="prezzi"/>
+    <file name="nomq_prezzi.css" crc="366340697" ref="prezzi"/>
     <file name="iefonts_prezzi.css" crc="3824530138" ref="prezzi"/>
   </folder>
   <folder name="fonts">
@@ -296,13 +296,16 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:maternità:prezzi"/>
-    <file name="arrowmenudown.png" crc="262559161" ref="index:chi-sono">
+    <file name="arrowmenudown.png" crc="262559161" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="prezzi" alt=""/>
       <caption webpage="prezzi" alt=""/>
       <caption webpage="prezzi" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="studio" alt=""/>
       <caption webpage="matrimoni" alt=""/>
       <caption webpage="matrimoni" alt=""/>
       <caption webpage="matrimoni" alt=""/>
@@ -339,17 +342,17 @@
       <caption webpage="index" alt=" "/>
       <caption webpage="index" alt=" "/>
       <caption webpage="index" alt=" "/>
-      <caption webpage="prezzi" alt=" "/>
-      <caption webpage="prezzi" alt=" "/>
-      <caption webpage="prezzi" alt=" "/>
-      <caption webpage="staff" alt=" "/>
-      <caption webpage="staff" alt=" "/>
       <caption webpage="neonati" alt=" "/>
       <caption webpage="matrimoni" alt=" "/>
       <caption webpage="matrimoni" alt=" "/>
       <caption webpage="matrimoni" alt=" "/>
-      <caption webpage="chi-sono" alt=" "/>
-      <caption webpage="chi-sono" alt=" "/>
+      <caption webpage="studio" alt=" "/>
+      <caption webpage="studio" alt=" "/>
+      <caption webpage="studio" alt=" "/>
+      <caption webpage="studio" alt=" "/>
+      <caption webpage="prezzi" alt=" "/>
+      <caption webpage="staff" alt=" "/>
+      <caption webpage="staff" alt=" "/>
       <caption webpage="chi-sono" alt=" "/>
     </file>
     <file name="mobile_menu_close.png" crc="4062498203" ref="index:chi-sono">
@@ -357,17 +360,17 @@
       <caption webpage="index" alt=" "/>
       <caption webpage="index" alt=" "/>
       <caption webpage="index" alt=" "/>
-      <caption webpage="prezzi" alt=" "/>
-      <caption webpage="prezzi" alt=" "/>
-      <caption webpage="prezzi" alt=" "/>
-      <caption webpage="staff" alt=" "/>
-      <caption webpage="staff" alt=" "/>
       <caption webpage="neonati" alt=" "/>
       <caption webpage="matrimoni" alt=" "/>
       <caption webpage="matrimoni" alt=" "/>
       <caption webpage="matrimoni" alt=" "/>
-      <caption webpage="chi-sono" alt=" "/>
-      <caption webpage="chi-sono" alt=" "/>
+      <caption webpage="studio" alt=" "/>
+      <caption webpage="studio" alt=" "/>
+      <caption webpage="studio" alt=" "/>
+      <caption webpage="studio" alt=" "/>
+      <caption webpage="prezzi" alt=" "/>
+      <caption webpage="staff" alt=" "/>
+      <caption webpage="staff" alt=" "/>
       <caption webpage="chi-sono" alt=" "/>
     </file>
     <file name="foto_neonati.jpg" crc="4222625518" seo="true" ref="index">
@@ -6467,15 +6470,15 @@
       <caption webpage="prezzi" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4294244164" seo="true" mt="1489355832994" redirect="true"/>
-  <file name="chi-sono.html" crc="191884591" seo="true" mt="1492613347780" redirect="true"/>
-  <file name="ritratti.html" crc="127568681" seo="true" mt="1489322425971" redirect="true"/>
-  <file name="matrimoni.html" crc="4206927720" seo="true" mt="1489322425971" redirect="true"/>
-  <file name="neonati.html" crc="159354621" seo="true" mt="1489325715321" redirect="true"/>
-  <file name="contatti.html" crc="2630114" seo="true" mt="1489322425971" redirect="true"/>
-  <file name="info.html" crc="3806683422" seo="true" mt="1489322621207" redirect="true"/>
-  <file name="studio.html" crc="71862830" seo="true" mt="1489322425971" redirect="true"/>
-  <file name="staff.html" crc="4034982716" seo="true" mt="1489322425971" redirect="true"/>
-  <file name="maternità.html" crc="338039528" seo="true" mt="1489355250896" redirect="true"/>
-  <file name="prezzi.html" crc="3998430449" seo="true" mt="1492609305980" redirect="true"/>
+  <file name="index.html" crc="4294244164" seo="true" mt="1492620833077" redirect="true"/>
+  <file name="chi-sono.html" crc="3890322930" seo="true" mt="1492620833077" redirect="true"/>
+  <file name="ritratti.html" crc="127568681" seo="true" mt="1492620833077" redirect="true"/>
+  <file name="matrimoni.html" crc="4206927720" seo="true" mt="1492620833077" redirect="true"/>
+  <file name="neonati.html" crc="159354621" seo="true" mt="1492620833077" redirect="true"/>
+  <file name="contatti.html" crc="2630114" seo="true" mt="1492620833077" redirect="true"/>
+  <file name="info.html" crc="3806683422" seo="true" mt="1492620833077" redirect="true"/>
+  <file name="studio.html" crc="4211926106" seo="true" mt="1492620833077" redirect="true"/>
+  <file name="staff.html" crc="4034982716" seo="true" mt="1492620833077" redirect="true"/>
+  <file name="maternità.html" crc="338039528" seo="true" mt="1492620833077" redirect="true"/>
+  <file name="prezzi.html" crc="4291560731" seo="true" mt="1492621535314" redirect="true"/>
 </manifest>
