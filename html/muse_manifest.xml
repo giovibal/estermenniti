@@ -1,32 +1,32 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estermenniti.it" resolutions="1x" timestamp="1492622880590">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estermenniti.it" resolutions="1x" timestamp="1492628570303">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-mastro.css" crc="295565089" ref="info:staff:neonati:ritratti:studio:contatti:chi-sono:index:matrimoni:maternità:prezzi"/>
-    <file name="nomq_preview_master_a-mastro.css" crc="392968101" ref="info:staff:neonati:ritratti:studio:contatti:chi-sono:index:matrimoni:maternità:prezzi"/>
-    <file name="info.css" crc="197637460" ref="info"/>
+    <file name="master_a-mastro.css" crc="440534430" ref="info:staff:neonati:ritratti:studio:contatti:chi-sono:index:matrimoni:prezzi:maternita"/>
+    <file name="nomq_preview_master_a-mastro.css" crc="455891897" ref="info:staff:neonati:ritratti:studio:contatti:chi-sono:index:matrimoni:prezzi:maternita"/>
+    <file name="info.css" crc="3951559551" ref="info"/>
     <file name="nomq_info.css" crc="172282248" ref="info"/>
-    <file name="staff.css" crc="36812978" ref="staff"/>
-    <file name="nomq_staff.css" crc="3879447897" ref="staff"/>
-    <file name="neonati.css" crc="267205353" ref="neonati"/>
+    <file name="staff.css" crc="4217882407" ref="staff"/>
+    <file name="nomq_staff.css" crc="3840440398" ref="staff"/>
+    <file name="neonati.css" crc="327811213" ref="neonati"/>
     <file name="nomq_neonati.css" crc="4098330074" ref="neonati"/>
-    <file name="ritratti.css" crc="331434226" ref="ritratti"/>
+    <file name="ritratti.css" crc="273802105" ref="ritratti"/>
     <file name="nomq_ritratti.css" crc="364226955" ref="ritratti"/>
-    <file name="studio.css" crc="3798293946" ref="studio"/>
+    <file name="studio.css" crc="139878741" ref="studio"/>
     <file name="nomq_studio.css" crc="195668983" ref="studio"/>
-    <file name="contatti.css" crc="203260586" ref="contatti"/>
+    <file name="contatti.css" crc="4120794238" ref="contatti"/>
     <file name="nomq_contatti.css" crc="3775461121" ref="contatti"/>
-    <file name="chi-sono.css" crc="3914781098" ref="chi-sono"/>
-    <file name="nomq_chi-sono.css" crc="17943131" ref="chi-sono"/>
+    <file name="chi-sono.css" crc="3969494479" ref="chi-sono"/>
+    <file name="nomq_chi-sono.css" crc="3956732048" ref="chi-sono"/>
     <file name="iefonts_chi-sono.css" crc="3824530138" ref="chi-sono"/>
-    <file name="index.css" crc="3805791252" ref="index"/>
-    <file name="nomq_index.css" crc="86273254" ref="index"/>
-    <file name="matrimoni.css" crc="33580975" ref="matrimoni"/>
+    <file name="index.css" crc="70584397" ref="index"/>
+    <file name="nomq_index.css" crc="4280684257" ref="index"/>
+    <file name="matrimoni.css" crc="118739013" ref="matrimoni"/>
     <file name="nomq_matrimoni.css" crc="345097738" ref="matrimoni"/>
-    <file name="maternit_.css" crc="162498660" ref="maternità"/>
-    <file name="nomq_maternit_.css" crc="3820925382" ref="maternità"/>
-    <file name="prezzi.css" crc="3995418807" ref="prezzi"/>
+    <file name="prezzi.css" crc="3943155024" ref="prezzi"/>
     <file name="nomq_prezzi.css" crc="296290207" ref="prezzi"/>
     <file name="iefonts_prezzi.css" crc="3824530138" ref="prezzi"/>
+    <file name="maternita.css" crc="4030557862" ref="maternita"/>
+    <file name="nomq_maternita.css" crc="3820925382" ref="maternita"/>
   </folder>
   <folder name="fonts">
     <file name="ils-script.ttf.woff" crc="388734446"/>
@@ -76,43 +76,93 @@
     <file name="ils-script.ttf.svg" crc="139610787"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:maternità:prezzi"/>
-    <file name="museutils.js" crc="4232573551" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:maternità:prezzi"/>
-    <file name="whatinput.js" crc="86476730" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:maternità:prezzi"/>
-    <file name="museconfig.js" crc="4152223963" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:maternità:prezzi"/>
-    <file name="jquery.musemenu.js" crc="38860304" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:maternità:prezzi"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:maternità:prezzi"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:chi-sono:neonati:maternità:matrimoni:ritratti"/>
-    <file name="webpro.js" crc="3770351119" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:maternità:prezzi"/>
-    <file name="musewpdisclosure.js" crc="347705465" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:maternità:prezzi"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:maternità:prezzi"/>
-    <file name="jquery.museresponsive.js" crc="433634197" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:maternità:prezzi"/>
-    <file name="require.js" crc="4234670167" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:maternità:prezzi"/>
-    <file name="musewpslideshow.js" crc="4244742588" ref="neonati:maternità:matrimoni:ritratti"/>
-    <file name="jquery.museoverlay.js" crc="432750910" ref="neonati:maternità:matrimoni:ritratti"/>
-    <file name="touchswipe.js" crc="3912873526" ref="neonati:maternità:matrimoni:ritratti"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:prezzi:maternita"/>
+    <file name="museutils.js" crc="4232573551" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:prezzi:maternita"/>
+    <file name="whatinput.js" crc="86476730" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:prezzi:maternita"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:prezzi:maternita"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:prezzi:maternita"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:prezzi:maternita"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:chi-sono:neonati:matrimoni:ritratti:maternita"/>
+    <file name="webpro.js" crc="3770351119" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:prezzi:maternita"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:prezzi:maternita"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:prezzi:maternita"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:prezzi:maternita"/>
+    <file name="require.js" crc="4234670167" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:prezzi:maternita"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="neonati:matrimoni:ritratti:maternita"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="neonati:matrimoni:ritratti:maternita"/>
+    <file name="touchswipe.js" crc="3912873526" ref="neonati:matrimoni:ritratti:maternita"/>
   </folder>
   <folder name="images">
-    <file name="sfondo_testata_menu.png" crc="304609523" seo="true" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:maternità:prezzi">
-      <caption webpage="studio" alt=""/>
-      <caption webpage="studio" alt=""/>
-      <caption webpage="studio" alt=""/>
-      <caption webpage="studio" alt=""/>
-      <caption webpage="studio" alt=""/>
-      <caption webpage="studio" alt=""/>
-      <caption webpage="studio" alt=""/>
-      <caption webpage="info" alt=""/>
-      <caption webpage="info" alt=""/>
-      <caption webpage="info" alt=""/>
-      <caption webpage="info" alt=""/>
-      <caption webpage="info" alt=""/>
-      <caption webpage="info" alt=""/>
+    <file name="sfondo_testata_menu.png" crc="304609523" seo="true" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:prezzi:maternita">
+      <caption webpage="materintà" alt=""/>
+      <caption webpage="materintà" alt=""/>
+      <caption webpage="materintà" alt=""/>
+      <caption webpage="materintà" alt=""/>
+      <caption webpage="materintà" alt=""/>
+      <caption webpage="materintà" alt=""/>
+      <caption webpage="maternità" alt=""/>
+      <caption webpage="maternità" alt=""/>
+      <caption webpage="maternità" alt=""/>
+      <caption webpage="maternità" alt=""/>
+      <caption webpage="maternità" alt=""/>
+      <caption webpage="maternità" alt=""/>
       <caption webpage="neonati" alt=""/>
       <caption webpage="neonati" alt=""/>
       <caption webpage="neonati" alt=""/>
       <caption webpage="neonati" alt=""/>
       <caption webpage="neonati" alt=""/>
       <caption webpage="neonati" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="staff" alt=""/>
+      <caption webpage="staff" alt=""/>
+      <caption webpage="staff" alt=""/>
+      <caption webpage="staff" alt=""/>
+      <caption webpage="staff" alt=""/>
+      <caption webpage="staff" alt=""/>
+      <caption webpage="staff" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="matrimoni" alt=""/>
+      <caption webpage="matrimoni" alt=""/>
+      <caption webpage="matrimoni" alt=""/>
+      <caption webpage="matrimoni" alt=""/>
+      <caption webpage="matrimoni" alt=""/>
+      <caption webpage="matrimoni" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="prezzi" alt=""/>
+      <caption webpage="prezzi" alt=""/>
+      <caption webpage="prezzi" alt=""/>
+      <caption webpage="prezzi" alt=""/>
+      <caption webpage="prezzi" alt=""/>
+      <caption webpage="prezzi" alt=""/>
+      <caption webpage="ritratti" alt=""/>
+      <caption webpage="ritratti" alt=""/>
+      <caption webpage="ritratti" alt=""/>
+      <caption webpage="ritratti" alt=""/>
+      <caption webpage="ritratti" alt=""/>
+      <caption webpage="ritratti" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="contatti" alt=""/>
@@ -125,71 +175,77 @@
       <caption webpage="chi-sono" alt=""/>
       <caption webpage="chi-sono" alt=""/>
       <caption webpage="chi-sono" alt=""/>
-      <caption webpage="ritratti" alt=""/>
-      <caption webpage="ritratti" alt=""/>
-      <caption webpage="ritratti" alt=""/>
-      <caption webpage="ritratti" alt=""/>
-      <caption webpage="ritratti" alt=""/>
-      <caption webpage="ritratti" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="maternità" alt=""/>
-      <caption webpage="maternità" alt=""/>
-      <caption webpage="maternità" alt=""/>
-      <caption webpage="maternità" alt=""/>
-      <caption webpage="maternità" alt=""/>
-      <caption webpage="maternità" alt=""/>
-      <caption webpage="prezzi" alt=""/>
-      <caption webpage="prezzi" alt=""/>
-      <caption webpage="prezzi" alt=""/>
-      <caption webpage="prezzi" alt=""/>
-      <caption webpage="prezzi" alt=""/>
-      <caption webpage="prezzi" alt=""/>
-      <caption webpage="staff" alt=""/>
-      <caption webpage="staff" alt=""/>
-      <caption webpage="staff" alt=""/>
-      <caption webpage="staff" alt=""/>
-      <caption webpage="staff" alt=""/>
-      <caption webpage="staff" alt=""/>
-      <caption webpage="staff" alt=""/>
-      <caption webpage="materintà" alt=""/>
-      <caption webpage="materintà" alt=""/>
-      <caption webpage="materintà" alt=""/>
-      <caption webpage="materintà" alt=""/>
-      <caption webpage="materintà" alt=""/>
-      <caption webpage="materintà" alt=""/>
-      <caption webpage="matrimoni" alt=""/>
-      <caption webpage="matrimoni" alt=""/>
-      <caption webpage="matrimoni" alt=""/>
-      <caption webpage="matrimoni" alt=""/>
-      <caption webpage="matrimoni" alt=""/>
-      <caption webpage="matrimoni" alt=""/>
     </file>
-    <file name="sfondo_footer.png" crc="362648514" seo="true" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:maternità:prezzi">
-      <caption webpage="studio" alt=""/>
-      <caption webpage="studio" alt=""/>
-      <caption webpage="studio" alt=""/>
-      <caption webpage="studio" alt=""/>
-      <caption webpage="studio" alt=""/>
-      <caption webpage="studio" alt=""/>
-      <caption webpage="studio" alt=""/>
-      <caption webpage="info" alt=""/>
-      <caption webpage="info" alt=""/>
-      <caption webpage="info" alt=""/>
-      <caption webpage="info" alt=""/>
-      <caption webpage="info" alt=""/>
-      <caption webpage="info" alt=""/>
+    <file name="sfondo_footer.png" crc="362648514" seo="true" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:prezzi:maternita">
+      <caption webpage="materintà" alt=""/>
+      <caption webpage="materintà" alt=""/>
+      <caption webpage="materintà" alt=""/>
+      <caption webpage="materintà" alt=""/>
+      <caption webpage="materintà" alt=""/>
+      <caption webpage="materintà" alt=""/>
+      <caption webpage="maternità" alt=""/>
+      <caption webpage="maternità" alt=""/>
+      <caption webpage="maternità" alt=""/>
+      <caption webpage="maternità" alt=""/>
+      <caption webpage="maternità" alt=""/>
+      <caption webpage="maternità" alt=""/>
       <caption webpage="neonati" alt=""/>
       <caption webpage="neonati" alt=""/>
       <caption webpage="neonati" alt=""/>
       <caption webpage="neonati" alt=""/>
       <caption webpage="neonati" alt=""/>
       <caption webpage="neonati" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="staff" alt=""/>
+      <caption webpage="staff" alt=""/>
+      <caption webpage="staff" alt=""/>
+      <caption webpage="staff" alt=""/>
+      <caption webpage="staff" alt=""/>
+      <caption webpage="staff" alt=""/>
+      <caption webpage="staff" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="matrimoni" alt=""/>
+      <caption webpage="matrimoni" alt=""/>
+      <caption webpage="matrimoni" alt=""/>
+      <caption webpage="matrimoni" alt=""/>
+      <caption webpage="matrimoni" alt=""/>
+      <caption webpage="matrimoni" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="prezzi" alt=""/>
+      <caption webpage="prezzi" alt=""/>
+      <caption webpage="prezzi" alt=""/>
+      <caption webpage="prezzi" alt=""/>
+      <caption webpage="prezzi" alt=""/>
+      <caption webpage="prezzi" alt=""/>
+      <caption webpage="ritratti" alt=""/>
+      <caption webpage="ritratti" alt=""/>
+      <caption webpage="ritratti" alt=""/>
+      <caption webpage="ritratti" alt=""/>
+      <caption webpage="ritratti" alt=""/>
+      <caption webpage="ritratti" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="contatti" alt=""/>
@@ -202,50 +258,6 @@
       <caption webpage="chi-sono" alt=""/>
       <caption webpage="chi-sono" alt=""/>
       <caption webpage="chi-sono" alt=""/>
-      <caption webpage="ritratti" alt=""/>
-      <caption webpage="ritratti" alt=""/>
-      <caption webpage="ritratti" alt=""/>
-      <caption webpage="ritratti" alt=""/>
-      <caption webpage="ritratti" alt=""/>
-      <caption webpage="ritratti" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="maternità" alt=""/>
-      <caption webpage="maternità" alt=""/>
-      <caption webpage="maternità" alt=""/>
-      <caption webpage="maternità" alt=""/>
-      <caption webpage="maternità" alt=""/>
-      <caption webpage="maternità" alt=""/>
-      <caption webpage="prezzi" alt=""/>
-      <caption webpage="prezzi" alt=""/>
-      <caption webpage="prezzi" alt=""/>
-      <caption webpage="prezzi" alt=""/>
-      <caption webpage="prezzi" alt=""/>
-      <caption webpage="prezzi" alt=""/>
-      <caption webpage="staff" alt=""/>
-      <caption webpage="staff" alt=""/>
-      <caption webpage="staff" alt=""/>
-      <caption webpage="staff" alt=""/>
-      <caption webpage="staff" alt=""/>
-      <caption webpage="staff" alt=""/>
-      <caption webpage="staff" alt=""/>
-      <caption webpage="materintà" alt=""/>
-      <caption webpage="materintà" alt=""/>
-      <caption webpage="materintà" alt=""/>
-      <caption webpage="materintà" alt=""/>
-      <caption webpage="materintà" alt=""/>
-      <caption webpage="materintà" alt=""/>
-      <caption webpage="matrimoni" alt=""/>
-      <caption webpage="matrimoni" alt=""/>
-      <caption webpage="matrimoni" alt=""/>
-      <caption webpage="matrimoni" alt=""/>
-      <caption webpage="matrimoni" alt=""/>
-      <caption webpage="matrimoni" alt=""/>
     </file>
     <file name="foto_neonati429x331.jpg" crc="358235357" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -295,23 +307,23 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:maternità:prezzi"/>
+    <file name="blank.gif" crc="4208392903" ref="index:chi-sono:ritratti:matrimoni:neonati:contatti:info:studio:staff:prezzi:maternita"/>
     <file name="arrowmenudown.png" crc="262559161" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="prezzi" alt=""/>
-      <caption webpage="prezzi" alt=""/>
-      <caption webpage="prezzi" alt=""/>
-      <caption webpage="studio" alt=""/>
-      <caption webpage="studio" alt=""/>
-      <caption webpage="studio" alt=""/>
       <caption webpage="matrimoni" alt=""/>
       <caption webpage="matrimoni" alt=""/>
       <caption webpage="matrimoni" alt=""/>
+      <caption webpage="prezzi" alt=""/>
+      <caption webpage="prezzi" alt=""/>
+      <caption webpage="prezzi" alt=""/>
       <caption webpage="chi-sono" alt=""/>
       <caption webpage="chi-sono" alt=""/>
       <caption webpage="chi-sono" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="studio" alt=""/>
+      <caption webpage="studio" alt=""/>
     </file>
     <file name="foto_neonati322x249.jpg" crc="86181033" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -338,39 +350,39 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="mobile_menu_open.png" crc="4082109685" ref="index:chi-sono">
-      <caption webpage="studio" alt=" "/>
-      <caption webpage="studio" alt=" "/>
-      <caption webpage="studio" alt=" "/>
-      <caption webpage="studio" alt=" "/>
+      <caption webpage="matrimoni" alt=" "/>
+      <caption webpage="matrimoni" alt=" "/>
+      <caption webpage="matrimoni" alt=" "/>
       <caption webpage="neonati" alt=" "/>
-      <caption webpage="matrimoni" alt=" "/>
-      <caption webpage="matrimoni" alt=" "/>
-      <caption webpage="matrimoni" alt=" "/>
+      <caption webpage="studio" alt=" "/>
+      <caption webpage="studio" alt=" "/>
+      <caption webpage="studio" alt=" "/>
+      <caption webpage="studio" alt=" "/>
       <caption webpage="index" alt=" "/>
       <caption webpage="index" alt=" "/>
       <caption webpage="index" alt=" "/>
       <caption webpage="index" alt=" "/>
+      <caption webpage="staff" alt=" "/>
+      <caption webpage="staff" alt=" "/>
       <caption webpage="prezzi" alt=" "/>
-      <caption webpage="staff" alt=" "/>
-      <caption webpage="staff" alt=" "/>
       <caption webpage="chi-sono" alt=" "/>
     </file>
     <file name="mobile_menu_close.png" crc="4062498203" ref="index:chi-sono">
-      <caption webpage="studio" alt=" "/>
-      <caption webpage="studio" alt=" "/>
-      <caption webpage="studio" alt=" "/>
-      <caption webpage="studio" alt=" "/>
+      <caption webpage="matrimoni" alt=" "/>
+      <caption webpage="matrimoni" alt=" "/>
+      <caption webpage="matrimoni" alt=" "/>
       <caption webpage="neonati" alt=" "/>
-      <caption webpage="matrimoni" alt=" "/>
-      <caption webpage="matrimoni" alt=" "/>
-      <caption webpage="matrimoni" alt=" "/>
+      <caption webpage="studio" alt=" "/>
+      <caption webpage="studio" alt=" "/>
+      <caption webpage="studio" alt=" "/>
+      <caption webpage="studio" alt=" "/>
       <caption webpage="index" alt=" "/>
       <caption webpage="index" alt=" "/>
       <caption webpage="index" alt=" "/>
       <caption webpage="index" alt=" "/>
+      <caption webpage="staff" alt=" "/>
+      <caption webpage="staff" alt=" "/>
       <caption webpage="prezzi" alt=" "/>
-      <caption webpage="staff" alt=" "/>
-      <caption webpage="staff" alt=" "/>
       <caption webpage="chi-sono" alt=" "/>
     </file>
     <file name="foto_neonati.jpg" crc="4222625518" seo="true" ref="index">
@@ -540,20 +552,8 @@
       <caption webpage="neonati" alt=""/>
       <caption webpage="neonati" alt=""/>
     </file>
-    <file name="left-arrow-128-u86923-3-fr.png" crc="4171610667" ref="neonati:maternità:ritratti:matrimoni"/>
-    <file name="right-arrow-128.png" crc="4235428155" ref="neonati:maternità:matrimoni:ritratti">
-      <caption webpage="maternità" alt=""/>
-      <caption webpage="maternità" alt=""/>
-      <caption webpage="maternità" alt=""/>
-      <caption webpage="maternità" alt=""/>
-      <caption webpage="maternità" alt=""/>
-      <caption webpage="maternità" alt=""/>
-      <caption webpage="neonati" alt=""/>
-      <caption webpage="neonati" alt=""/>
-      <caption webpage="neonati" alt=""/>
-      <caption webpage="neonati" alt=""/>
-      <caption webpage="neonati" alt=""/>
-      <caption webpage="neonati" alt=""/>
+    <file name="left-arrow-128-u86923-3-fr.png" crc="4171610667" ref="neonati:ritratti:matrimoni:maternita"/>
+    <file name="right-arrow-128.png" crc="4235428155" ref="neonati:matrimoni:ritratti:maternita">
       <caption webpage="matrimoni" alt=""/>
       <caption webpage="matrimoni" alt=""/>
       <caption webpage="matrimoni" alt=""/>
@@ -566,9 +566,27 @@
       <caption webpage="ritratti" alt=""/>
       <caption webpage="ritratti" alt=""/>
       <caption webpage="ritratti" alt=""/>
+      <caption webpage="maternità" alt=""/>
+      <caption webpage="maternità" alt=""/>
+      <caption webpage="maternità" alt=""/>
+      <caption webpage="maternità" alt=""/>
+      <caption webpage="maternità" alt=""/>
+      <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="neonati" alt=""/>
+      <caption webpage="neonati" alt=""/>
+      <caption webpage="neonati" alt=""/>
+      <caption webpage="neonati" alt=""/>
+      <caption webpage="neonati" alt=""/>
+      <caption webpage="neonati" alt=""/>
     </file>
-    <file name="mobile_menu_close-u86925-fr.png" crc="3837224527" ref="neonati:maternità:ritratti:matrimoni"/>
-    <file name="loading.gif" crc="3815509949" ref="neonati:maternità:matrimoni:ritratti"/>
+    <file name="mobile_menu_close-u86925-fr.png" crc="3837224527" ref="neonati:ritratti:matrimoni:maternita"/>
+    <file name="loading.gif" crc="3815509949" ref="neonati:matrimoni:ritratti:maternita"/>
     <file name="galleria_neonati_sfondo-page-fr.jpg" crc="3903356801" ref="neonati"/>
     <file name="galleria_neonati_sfondo-page-fr2.jpg" crc="527595582" ref="neonati"/>
     <file name="galleria_neonati_sfondo-page-fr3.jpg" crc="4159785565" ref="neonati"/>
@@ -2249,1275 +2267,1952 @@
     <file name="studio3-crop-u643427.jpg" crc="3968915213" seo="true" ref="studio">
       <caption webpage="studio" alt=""/>
     </file>
-    <file name="galleria_matern_sfondo.jpg" crc="395336626" ref="maternità">
+    <file name="galleria_matern_sfondo.jpg" crc="395336626" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160924-183440-0705-modifica.jpg" crc="209221303" seo="true" ref="maternità">
+    <file name="20160924-183440-0705-modifica.jpg" crc="209221303" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161004-121104-0038-modifica.jpg" crc="3845825666" seo="true" ref="maternità">
+    <file name="20161004-121104-0038-modifica.jpg" crc="3845825666" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161018-174156-0067-modifica.jpg" crc="3831388796" seo="true" ref="maternità">
+    <file name="20161018-174156-0067-modifica.jpg" crc="3831388796" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161018-175335-0079-modifica.jpg" crc="234448419" seo="true" ref="maternità">
+    <file name="20161018-175335-0079-modifica.jpg" crc="234448419" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20130910-084840-0059-modifica.jpg" crc="367610979" seo="true" ref="maternità">
+    <file name="20130910-084840-0059-modifica.jpg" crc="367610979" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20130910-092414-0094-modifica-modifica.jpg" crc="520759918" seo="true" ref="maternità">
+    <file name="20130910-092414-0094-modifica-modifica.jpg" crc="520759918" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20131108-100535-0087-modifica.jpg" crc="429995919" seo="true" ref="maternità">
+    <file name="20131108-100535-0087-modifica.jpg" crc="429995919" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20131108-105130-0160-modifica.jpg" crc="3778383659" seo="true" ref="maternità">
+    <file name="20131108-105130-0160-modifica.jpg" crc="3778383659" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20131108-112103-0207-modifica-2-modifica-modifica.jpg" crc="3815991319" seo="true" ref="maternità">
+    <file name="20131108-112103-0207-modifica-2-modifica-modifica.jpg" crc="3815991319" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20140521-170859-0047-modifica.jpg" crc="300857292" seo="true" ref="maternità">
+    <file name="20140521-170859-0047-modifica.jpg" crc="300857292" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20140521-180924-0169-modifica.jpg" crc="138464757" seo="true" ref="maternità">
+    <file name="20140521-180924-0169-modifica.jpg" crc="138464757" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20140619-182136-0058-modifica-3.jpg" crc="71570529" seo="true" ref="maternità">
+    <file name="20140619-182136-0058-modifica-3.jpg" crc="71570529" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20140619-185926-0113-modifica.jpg" crc="4059453993" seo="true" ref="maternità">
+    <file name="20140619-185926-0113-modifica.jpg" crc="4059453993" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20140619-193104-0208-modifica.jpg" crc="479604931" seo="true" ref="maternità">
+    <file name="20140619-193104-0208-modifica.jpg" crc="479604931" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20140929-132157-0203.jpg" crc="307223273" seo="true" ref="maternità">
+    <file name="20140929-132157-0203.jpg" crc="307223273" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141020-105946-0042.jpg" crc="3936761174" seo="true" ref="maternità">
+    <file name="20141020-105946-0042.jpg" crc="3936761174" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141020-110222-0048.jpg" crc="184656795" seo="true" ref="maternità">
+    <file name="20141020-110222-0048.jpg" crc="184656795" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141023-094428-0022.jpg" crc="3832522943" seo="true" ref="maternità">
+    <file name="20141023-094428-0022.jpg" crc="3832522943" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141027-112634-0043.jpg" crc="124260063" seo="true" ref="maternità">
+    <file name="20141027-112634-0043.jpg" crc="124260063" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141027-124525-0117.jpg" crc="116935412" seo="true" ref="maternità">
+    <file name="20141027-124525-0117.jpg" crc="116935412" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141108-115501-0026.jpg" crc="3825614188" seo="true" ref="maternità">
+    <file name="20141108-115501-0026.jpg" crc="3825614188" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141124-113244-0066-modifica.jpg" crc="4268300689" seo="true" ref="maternità">
+    <file name="20141124-113244-0066-modifica.jpg" crc="4268300689" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141204-110447-0443.jpg" crc="340874068" seo="true" ref="maternità">
+    <file name="20141204-110447-0443.jpg" crc="340874068" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141205-163918-0614.jpg" crc="246798624" seo="true" ref="maternità">
+    <file name="20141205-163918-0614.jpg" crc="246798624" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141213-115945-0027.jpg" crc="4976578" seo="true" ref="maternità">
+    <file name="20141213-115945-0027.jpg" crc="4976578" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150423-165605-0708-modifica.jpg" crc="384541883" seo="true" ref="maternità">
+    <file name="20150423-165605-0708-modifica.jpg" crc="384541883" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150607-185805-0012-modifica.jpg" crc="3988520150" seo="true" ref="maternità">
+    <file name="20150607-185805-0012-modifica.jpg" crc="3988520150" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150607-192919-0134-modifica.jpg" crc="198263748" seo="true" ref="maternità">
+    <file name="20150607-192919-0134-modifica.jpg" crc="198263748" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150711-191637-0013-modifica.jpg" crc="405957364" seo="true" ref="maternità">
+    <file name="20150711-191637-0013-modifica.jpg" crc="405957364" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150719-203426-0171-modifica.jpg" crc="3875547167" seo="true" ref="maternità">
+    <file name="20150719-203426-0171-modifica.jpg" crc="3875547167" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151024-111701-0145-modifica.jpg" crc="3868360282" seo="true" ref="maternità">
+    <file name="20151024-111701-0145-modifica.jpg" crc="3868360282" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151103-115100-0410-modifica.jpg" crc="321820980" seo="true" ref="maternità">
+    <file name="20151103-115100-0410-modifica.jpg" crc="321820980" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151125-115756-0123-modifica.jpg" crc="287339141" seo="true" ref="maternità">
+    <file name="20151125-115756-0123-modifica.jpg" crc="287339141" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151125-120222-0127-modifica.jpg" crc="477299307" seo="true" ref="maternità">
+    <file name="20151125-120222-0127-modifica.jpg" crc="477299307" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150811-195641-0041-modifica.jpg" crc="262969976" seo="true" ref="maternità">
+    <file name="20150811-195641-0041-modifica.jpg" crc="262969976" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151128-135842-0012-modifica.jpg" crc="426771874" seo="true" ref="maternità">
+    <file name="20151128-135842-0012-modifica.jpg" crc="426771874" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151205-114115-0255-modifica.jpg" crc="3945560076" seo="true" ref="maternità">
+    <file name="20151205-114115-0255-modifica.jpg" crc="3945560076" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151031-174944-0365-modifica.jpg" crc="38386842" seo="true" ref="maternità">
+    <file name="20151031-174944-0365-modifica.jpg" crc="38386842" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151205-115353-0279-modifica.jpg" crc="517221232" seo="true" ref="maternità">
+    <file name="20151205-115353-0279-modifica.jpg" crc="517221232" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151218-123910-0729-modifica.jpg" crc="3831966776" seo="true" ref="maternità">
+    <file name="20151218-123910-0729-modifica.jpg" crc="3831966776" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160116-120909-0113-modifica.jpg" crc="4060873222" seo="true" ref="maternità">
+    <file name="20160116-120909-0113-modifica.jpg" crc="4060873222" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160116-121500-0129-modifica.jpg" crc="178393557" seo="true" ref="maternità">
+    <file name="20160116-121500-0129-modifica.jpg" crc="178393557" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160213-175955-0167-modifica.jpg" crc="218786628" seo="true" ref="maternità">
+    <file name="20160213-175955-0167-modifica.jpg" crc="218786628" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160222-123818-0048-modifica.jpg" crc="4206117734" seo="true" ref="maternità">
+    <file name="20160222-123818-0048-modifica.jpg" crc="4206117734" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160222-125636-0081-modifica.jpg" crc="269116859" seo="true" ref="maternità">
+    <file name="20160222-125636-0081-modifica.jpg" crc="269116859" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160504-150929-0013-modifica-modifica.jpg" crc="3764647281" seo="true" ref="maternità">
+    <file name="20160504-150929-0013-modifica-modifica.jpg" crc="3764647281" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160808-193143-0042-modifica.jpg" crc="251054031" seo="true" ref="maternità">
+    <file name="20160808-193143-0042-modifica.jpg" crc="251054031" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160809-195753-0125-modifica.jpg" crc="3890798918" seo="true" ref="maternità">
+    <file name="20160809-195753-0125-modifica.jpg" crc="3890798918" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160809-201438-0012-modifica.jpg" crc="249910436" seo="true" ref="maternità">
+    <file name="20160809-201438-0012-modifica.jpg" crc="249910436" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160922-195114-0023-modifica-modifica.jpg" crc="309874889" seo="true" ref="maternità">
+    <file name="20160922-195114-0023-modifica-modifica.jpg" crc="309874889" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161004-113442-0025-modifica.jpg" crc="490758712" seo="true" ref="maternità">
+    <file name="20161004-113442-0025-modifica.jpg" crc="490758712" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161004-114228-0026-modifica.jpg" crc="355268334" seo="true" ref="maternità">
+    <file name="20161004-114228-0026-modifica.jpg" crc="355268334" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161217-122506-0115-modifica.jpg" crc="4132348466" seo="true" ref="maternità">
+    <file name="20161217-122506-0115-modifica.jpg" crc="4132348466" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20131108-112103-0207-modifica.jpg" crc="3969333059" seo="true" ref="maternità">
+    <file name="20131108-112103-0207-modifica.jpg" crc="3969333059" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150607-193111-0157-modifica.jpg" crc="439335261" seo="true" ref="maternità">
+    <file name="20150607-193111-0157-modifica.jpg" crc="439335261" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161018-175145-0073-modifica.jpg" crc="3937709373" seo="true" ref="maternità">
+    <file name="20161018-175145-0073-modifica.jpg" crc="3937709373" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160924-183440-0705-modifica300x201.jpg" crc="4240017235" seo="true" ref="maternità">
+    <file name="20160924-183440-0705-modifica300x201.jpg" crc="4240017235" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161004-121104-0038-modifica-crop-u127968.jpg" crc="4134510171" seo="true" ref="maternità">
+    <file name="20161004-121104-0038-modifica-crop-u127968.jpg" crc="4134510171" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161018-174156-0067-modifica300x201.jpg" crc="4282791800" seo="true" ref="maternità">
+    <file name="20161018-174156-0067-modifica300x201.jpg" crc="4282791800" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161018-175335-0079-modifica300x201.jpg" crc="14603954" seo="true" ref="maternità">
+    <file name="20161018-175335-0079-modifica300x201.jpg" crc="14603954" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20130910-084840-0059-modifica-crop-u128193.jpg" crc="3782286651" seo="true" ref="maternità">
+    <file name="20130910-084840-0059-modifica-crop-u128193.jpg" crc="3782286651" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20130910-092414-0094-modifica-modifica356x200.jpg" crc="219247685" seo="true" ref="maternità">
+    <file name="20130910-092414-0094-modifica-modifica356x200.jpg" crc="219247685" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20131108-100535-0087-modifica301x200.jpg" crc="390346748" seo="true" ref="maternità">
+    <file name="20131108-100535-0087-modifica301x200.jpg" crc="390346748" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20131108-105130-0160-modifica356x200.jpg" crc="4261894082" seo="true" ref="maternità">
+    <file name="20131108-105130-0160-modifica356x200.jpg" crc="4261894082" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20131108-112103-0207-modifica-2-modifica-modifica301x200.jpg" crc="3969402893" seo="true" ref="maternità">
+    <file name="20131108-112103-0207-modifica-2-modifica-modifica301x200.jpg" crc="3969402893" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20140521-170859-0047-modifica-crop-u128568.jpg" crc="308345863" seo="true" ref="maternità">
+    <file name="20140521-170859-0047-modifica-crop-u128568.jpg" crc="308345863" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20140521-180924-0169-modifica356x200.jpg" crc="4072193610" seo="true" ref="maternità">
+    <file name="20140521-180924-0169-modifica356x200.jpg" crc="4072193610" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20140619-182136-0058-modifica-3-crop-u128718.jpg" crc="105915641" seo="true" ref="maternità">
+    <file name="20140619-182136-0058-modifica-3-crop-u128718.jpg" crc="105915641" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20140619-185926-0113-modifica301x200.jpg" crc="342721891" seo="true" ref="maternità">
+    <file name="20140619-185926-0113-modifica301x200.jpg" crc="342721891" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20140619-193104-0208-modifica304x200.jpg" crc="3869296757" seo="true" ref="maternità">
+    <file name="20140619-193104-0208-modifica304x200.jpg" crc="3869296757" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20140929-132157-0203300x201.jpg" crc="3907779431" seo="true" ref="maternità">
+    <file name="20140929-132157-0203300x201.jpg" crc="3907779431" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141020-105946-0042-crop-u129018.jpg" crc="3944927725" seo="true" ref="maternità">
+    <file name="20141020-105946-0042-crop-u129018.jpg" crc="3944927725" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141020-110222-0048-crop-u129093.jpg" crc="306608543" seo="true" ref="maternità">
+    <file name="20141020-110222-0048-crop-u129093.jpg" crc="306608543" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141023-094428-0022300x201.jpg" crc="364694492" seo="true" ref="maternità">
+    <file name="20141023-094428-0022300x201.jpg" crc="364694492" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141027-112634-0043300x201.jpg" crc="162434585" seo="true" ref="maternità">
+    <file name="20141027-112634-0043300x201.jpg" crc="162434585" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141027-124525-0117-crop-u129318.jpg" crc="474248061" seo="true" ref="maternità">
+    <file name="20141027-124525-0117-crop-u129318.jpg" crc="474248061" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141108-115501-0026-crop-u129393.jpg" crc="4255112756" seo="true" ref="maternità">
+    <file name="20141108-115501-0026-crop-u129393.jpg" crc="4255112756" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141124-113244-0066-modifica-crop-u129468.jpg" crc="342063101" seo="true" ref="maternità">
+    <file name="20141124-113244-0066-modifica-crop-u129468.jpg" crc="342063101" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141204-110447-0443-crop-u129543.jpg" crc="251672274" seo="true" ref="maternità">
+    <file name="20141204-110447-0443-crop-u129543.jpg" crc="251672274" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141205-163918-0614300x226.jpg" crc="4024528069" seo="true" ref="maternità">
+    <file name="20141205-163918-0614300x226.jpg" crc="4024528069" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141213-115945-0027-crop-u129693.jpg" crc="3803342033" seo="true" ref="maternità">
+    <file name="20141213-115945-0027-crop-u129693.jpg" crc="3803342033" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150423-165605-0708-modifica-crop-u129768.jpg" crc="131874513" seo="true" ref="maternità">
+    <file name="20150423-165605-0708-modifica-crop-u129768.jpg" crc="131874513" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150607-185805-0012-modifica301x200.jpg" crc="4263527268" seo="true" ref="maternità">
+    <file name="20150607-185805-0012-modifica301x200.jpg" crc="4263527268" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150607-192919-0134-modifica301x200.jpg" crc="247421374" seo="true" ref="maternità">
+    <file name="20150607-192919-0134-modifica301x200.jpg" crc="247421374" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150711-191637-0013-modifica-crop-u130068.jpg" crc="3837687798" seo="true" ref="maternità">
+    <file name="20150711-191637-0013-modifica-crop-u130068.jpg" crc="3837687798" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150719-203426-0171-modifica354x200.jpg" crc="13332915" seo="true" ref="maternità">
+    <file name="20150719-203426-0171-modifica354x200.jpg" crc="13332915" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151024-111701-0145-modifica301x200.jpg" crc="457399882" seo="true" ref="maternità">
+    <file name="20151024-111701-0145-modifica301x200.jpg" crc="457399882" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151103-115100-0410-modifica-crop-u130518.jpg" crc="4138030551" seo="true" ref="maternità">
+    <file name="20151103-115100-0410-modifica-crop-u130518.jpg" crc="4138030551" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151125-115756-0123-modifica-crop-u130593.jpg" crc="4032807410" seo="true" ref="maternità">
+    <file name="20151125-115756-0123-modifica-crop-u130593.jpg" crc="4032807410" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151125-120222-0127-modifica300x201.jpg" crc="4236954891" seo="true" ref="maternità">
+    <file name="20151125-120222-0127-modifica300x201.jpg" crc="4236954891" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150811-195641-0041-modifica300x201.jpg" crc="3983647973" seo="true" ref="maternità">
+    <file name="20150811-195641-0041-modifica300x201.jpg" crc="3983647973" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151128-135842-0012-modifica-crop-u130743.jpg" crc="74741804" seo="true" ref="maternità">
+    <file name="20151128-135842-0012-modifica-crop-u130743.jpg" crc="74741804" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151205-114115-0255-modifica-crop-u130818.jpg" crc="4268103306" seo="true" ref="maternità">
+    <file name="20151205-114115-0255-modifica-crop-u130818.jpg" crc="4268103306" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151031-174944-0365-modifica301x200.jpg" crc="184045241" seo="true" ref="maternità">
+    <file name="20151031-174944-0365-modifica301x200.jpg" crc="184045241" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151205-115353-0279-modifica-crop-u130893.jpg" crc="266540841" seo="true" ref="maternità">
+    <file name="20151205-115353-0279-modifica-crop-u130893.jpg" crc="266540841" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151218-123910-0729-modifica-crop-u130968.jpg" crc="4149159008" seo="true" ref="maternità">
+    <file name="20151218-123910-0729-modifica-crop-u130968.jpg" crc="4149159008" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160116-120909-0113-modifica300x201.jpg" crc="4046149253" seo="true" ref="maternità">
+    <file name="20160116-120909-0113-modifica300x201.jpg" crc="4046149253" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160116-121500-0129-modifica-crop-u131118.jpg" crc="342820194" seo="true" ref="maternità">
+    <file name="20160116-121500-0129-modifica-crop-u131118.jpg" crc="342820194" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160213-175955-0167-modifica300x200.jpg" crc="205981016" seo="true" ref="maternità">
+    <file name="20160213-175955-0167-modifica300x200.jpg" crc="205981016" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160222-123818-0048-modifica-crop-u131268.jpg" crc="3828033144" seo="true" ref="maternità">
+    <file name="20160222-123818-0048-modifica-crop-u131268.jpg" crc="3828033144" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160222-125636-0081-modifica-crop-u131343.jpg" crc="183661991" seo="true" ref="maternità">
+    <file name="20160222-125636-0081-modifica-crop-u131343.jpg" crc="183661991" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160504-150929-0013-modifica-modifica-crop-u131418.jpg" crc="305750841" seo="true" ref="maternità">
+    <file name="20160504-150929-0013-modifica-modifica-crop-u131418.jpg" crc="305750841" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160808-193143-0042-modifica300x201.jpg" crc="3791291335" seo="true" ref="maternità">
+    <file name="20160808-193143-0042-modifica300x201.jpg" crc="3791291335" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160809-195753-0125-modifica300x201.jpg" crc="316807076" seo="true" ref="maternità">
+    <file name="20160809-195753-0125-modifica300x201.jpg" crc="316807076" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160809-201438-0012-modifica313x200.jpg" crc="81636280" seo="true" ref="maternità">
+    <file name="20160809-201438-0012-modifica313x200.jpg" crc="81636280" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160922-195114-0023-modifica-modifica-crop-u131718.jpg" crc="45626255" seo="true" ref="maternità">
+    <file name="20160922-195114-0023-modifica-modifica-crop-u131718.jpg" crc="45626255" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161004-113442-0025-modifica300x201.jpg" crc="3778488812" seo="true" ref="maternità">
+    <file name="20161004-113442-0025-modifica300x201.jpg" crc="3778488812" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161004-114228-0026-modifica-crop-u131868.jpg" crc="3841705249" seo="true" ref="maternità">
+    <file name="20161004-114228-0026-modifica-crop-u131868.jpg" crc="3841705249" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161217-122506-0115-modifica-crop-u131943.jpg" crc="3941858336" seo="true" ref="maternità">
+    <file name="20161217-122506-0115-modifica-crop-u131943.jpg" crc="3941858336" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20131108-112103-0207-modifica301x200.jpg" crc="3955273986" seo="true" ref="maternità">
+    <file name="20131108-112103-0207-modifica301x200.jpg" crc="3955273986" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150607-193111-0157-modifica301x200.jpg" crc="69977377" seo="true" ref="maternità">
+    <file name="20150607-193111-0157-modifica301x200.jpg" crc="69977377" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161018-175145-0073-modifica300x200.jpg" crc="4158649010" seo="true" ref="maternità">
+    <file name="20161018-175145-0073-modifica300x200.jpg" crc="4158649010" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="logo_maternita_blu.png" crc="199125676" seo="true" ref="maternità">
+    <file name="logo_maternita_blu.png" crc="199125676" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="galleria_matern_sfondo-page-fr.jpg" crc="54809807" ref="maternità"/>
-    <file name="20161004-121104-0038-modifica-crop-u1279682.jpg" crc="4134510171" seo="true" ref="maternità">
+    <file name="galleria_matern_sfondo-page-fr.jpg" crc="54809807" ref="maternita"/>
+    <file name="20161004-121104-0038-modifica-crop-u1279682.jpg" crc="4134510171" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20130910-084840-0059-modifica-crop-u1281932.jpg" crc="3782286651" seo="true" ref="maternità">
+    <file name="20130910-084840-0059-modifica-crop-u1281932.jpg" crc="3782286651" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20140521-170859-0047-modifica-crop-u1285682.jpg" crc="83669955" seo="true" ref="maternità">
+    <file name="20140521-170859-0047-modifica-crop-u1285682.jpg" crc="83669955" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20140619-182136-0058-modifica-3-crop-u1287182.jpg" crc="3813451797" seo="true" ref="maternità">
+    <file name="20140619-182136-0058-modifica-3-crop-u1287182.jpg" crc="3813451797" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141020-105946-0042-crop-u1290182.jpg" crc="3930696733" seo="true" ref="maternità">
+    <file name="20141020-105946-0042-crop-u1290182.jpg" crc="3930696733" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141020-110222-0048-crop-u1290932.jpg" crc="519587025" seo="true" ref="maternità">
+    <file name="20141020-110222-0048-crop-u1290932.jpg" crc="519587025" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141027-124525-0117-crop-u1293182.jpg" crc="251603174" seo="true" ref="maternità">
+    <file name="20141027-124525-0117-crop-u1293182.jpg" crc="251603174" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141108-115501-0026-crop-u1293932.jpg" crc="4089368438" seo="true" ref="maternità">
+    <file name="20141108-115501-0026-crop-u1293932.jpg" crc="4089368438" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141124-113244-0066-modifica-crop-u1294682.jpg" crc="3828036412" seo="true" ref="maternità">
+    <file name="20141124-113244-0066-modifica-crop-u1294682.jpg" crc="3828036412" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141204-110447-0443-crop-u1295432.jpg" crc="251672274" seo="true" ref="maternità">
+    <file name="20141204-110447-0443-crop-u1295432.jpg" crc="251672274" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141213-115945-0027-crop-u1296932.jpg" crc="281929767" seo="true" ref="maternità">
+    <file name="20141213-115945-0027-crop-u1296932.jpg" crc="281929767" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150423-165605-0708-modifica-crop-u1297682.jpg" crc="131874513" seo="true" ref="maternità">
+    <file name="20150423-165605-0708-modifica-crop-u1297682.jpg" crc="131874513" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150711-191637-0013-modifica-crop-u1300682.jpg" crc="3837687798" seo="true" ref="maternità">
+    <file name="20150711-191637-0013-modifica-crop-u1300682.jpg" crc="3837687798" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151103-115100-0410-modifica-crop-u1305182.jpg" crc="4138030551" seo="true" ref="maternità">
+    <file name="20151103-115100-0410-modifica-crop-u1305182.jpg" crc="4138030551" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151125-115756-0123-modifica-crop-u1305932.jpg" crc="4032807410" seo="true" ref="maternità">
+    <file name="20151125-115756-0123-modifica-crop-u1305932.jpg" crc="4032807410" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151128-135842-0012-modifica-crop-u1307432.jpg" crc="74741804" seo="true" ref="maternità">
+    <file name="20151128-135842-0012-modifica-crop-u1307432.jpg" crc="74741804" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151205-114115-0255-modifica-crop-u1308182.jpg" crc="4268103306" seo="true" ref="maternità">
+    <file name="20151205-114115-0255-modifica-crop-u1308182.jpg" crc="4268103306" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151205-115353-0279-modifica-crop-u1308932.jpg" crc="266540841" seo="true" ref="maternità">
+    <file name="20151205-115353-0279-modifica-crop-u1308932.jpg" crc="266540841" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151218-123910-0729-modifica-crop-u1309682.jpg" crc="4149159008" seo="true" ref="maternità">
+    <file name="20151218-123910-0729-modifica-crop-u1309682.jpg" crc="4149159008" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160116-121500-0129-modifica-crop-u1311182.jpg" crc="342820194" seo="true" ref="maternità">
+    <file name="20160116-121500-0129-modifica-crop-u1311182.jpg" crc="342820194" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160222-123818-0048-modifica-crop-u1312682.jpg" crc="3828033144" seo="true" ref="maternità">
+    <file name="20160222-123818-0048-modifica-crop-u1312682.jpg" crc="3828033144" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160222-125636-0081-modifica-crop-u1313432.jpg" crc="183661991" seo="true" ref="maternità">
+    <file name="20160222-125636-0081-modifica-crop-u1313432.jpg" crc="183661991" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160504-150929-0013-modifica-modifica-crop-u1314182.jpg" crc="305750841" seo="true" ref="maternità">
+    <file name="20160504-150929-0013-modifica-modifica-crop-u1314182.jpg" crc="305750841" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160922-195114-0023-modifica-modifica-crop-u1317182.jpg" crc="3832492360" seo="true" ref="maternità">
+    <file name="20160922-195114-0023-modifica-modifica-crop-u1317182.jpg" crc="3832492360" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161004-114228-0026-modifica-crop-u1318682.jpg" crc="3841705249" seo="true" ref="maternità">
+    <file name="20161004-114228-0026-modifica-crop-u1318682.jpg" crc="3841705249" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161217-122506-0115-modifica-crop-u1319432.jpg" crc="3941858336" seo="true" ref="maternità">
+    <file name="20161217-122506-0115-modifica-crop-u1319432.jpg" crc="3941858336" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="galleria_matern_sfondo-page-fr2.jpg" crc="4217339943" ref="maternità"/>
-    <file name="20161004-121104-0038-modifica-crop-u1279683.jpg" crc="4134510171" seo="true" ref="maternità">
+    <file name="galleria_matern_sfondo-page-fr2.jpg" crc="4217339943" ref="maternita"/>
+    <file name="20161004-121104-0038-modifica-crop-u1279683.jpg" crc="4134510171" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20130910-084840-0059-modifica-crop-u1281933.jpg" crc="3782286651" seo="true" ref="maternità">
+    <file name="20130910-084840-0059-modifica-crop-u1281933.jpg" crc="3782286651" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20140521-170859-0047-modifica-crop-u1285683.jpg" crc="83669955" seo="true" ref="maternità">
+    <file name="20140521-170859-0047-modifica-crop-u1285683.jpg" crc="83669955" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20140619-182136-0058-modifica-3-crop-u1287183.jpg" crc="3813451797" seo="true" ref="maternità">
+    <file name="20140619-182136-0058-modifica-3-crop-u1287183.jpg" crc="3813451797" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141020-105946-0042-crop-u1290183.jpg" crc="3930696733" seo="true" ref="maternità">
+    <file name="20141020-105946-0042-crop-u1290183.jpg" crc="3930696733" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141020-110222-0048-crop-u1290933.jpg" crc="519587025" seo="true" ref="maternità">
+    <file name="20141020-110222-0048-crop-u1290933.jpg" crc="519587025" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141027-124525-0117-crop-u1293183.jpg" crc="251603174" seo="true" ref="maternità">
+    <file name="20141027-124525-0117-crop-u1293183.jpg" crc="251603174" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141108-115501-0026-crop-u1293933.jpg" crc="4089368438" seo="true" ref="maternità">
+    <file name="20141108-115501-0026-crop-u1293933.jpg" crc="4089368438" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141124-113244-0066-modifica-crop-u1294683.jpg" crc="3828036412" seo="true" ref="maternità">
+    <file name="20141124-113244-0066-modifica-crop-u1294683.jpg" crc="3828036412" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141204-110447-0443-crop-u1295433.jpg" crc="251672274" seo="true" ref="maternità">
+    <file name="20141204-110447-0443-crop-u1295433.jpg" crc="251672274" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141213-115945-0027-crop-u1296933.jpg" crc="281929767" seo="true" ref="maternità">
+    <file name="20141213-115945-0027-crop-u1296933.jpg" crc="281929767" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150423-165605-0708-modifica-crop-u1297683.jpg" crc="131874513" seo="true" ref="maternità">
+    <file name="20150423-165605-0708-modifica-crop-u1297683.jpg" crc="131874513" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150711-191637-0013-modifica-crop-u1300683.jpg" crc="3837687798" seo="true" ref="maternità">
+    <file name="20150711-191637-0013-modifica-crop-u1300683.jpg" crc="3837687798" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151103-115100-0410-modifica-crop-u1305183.jpg" crc="4138030551" seo="true" ref="maternità">
+    <file name="20151103-115100-0410-modifica-crop-u1305183.jpg" crc="4138030551" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151125-115756-0123-modifica-crop-u1305933.jpg" crc="4032807410" seo="true" ref="maternità">
+    <file name="20151125-115756-0123-modifica-crop-u1305933.jpg" crc="4032807410" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151128-135842-0012-modifica-crop-u1307433.jpg" crc="74741804" seo="true" ref="maternità">
+    <file name="20151128-135842-0012-modifica-crop-u1307433.jpg" crc="74741804" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151205-114115-0255-modifica-crop-u1308183.jpg" crc="4268103306" seo="true" ref="maternità">
+    <file name="20151205-114115-0255-modifica-crop-u1308183.jpg" crc="4268103306" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151205-115353-0279-modifica-crop-u1308933.jpg" crc="266540841" seo="true" ref="maternità">
+    <file name="20151205-115353-0279-modifica-crop-u1308933.jpg" crc="266540841" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151218-123910-0729-modifica-crop-u1309683.jpg" crc="4149159008" seo="true" ref="maternità">
+    <file name="20151218-123910-0729-modifica-crop-u1309683.jpg" crc="4149159008" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160116-121500-0129-modifica-crop-u1311183.jpg" crc="342820194" seo="true" ref="maternità">
+    <file name="20160116-121500-0129-modifica-crop-u1311183.jpg" crc="342820194" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160222-123818-0048-modifica-crop-u1312683.jpg" crc="3828033144" seo="true" ref="maternità">
+    <file name="20160222-123818-0048-modifica-crop-u1312683.jpg" crc="3828033144" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160222-125636-0081-modifica-crop-u1313433.jpg" crc="183661991" seo="true" ref="maternità">
+    <file name="20160222-125636-0081-modifica-crop-u1313433.jpg" crc="183661991" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160504-150929-0013-modifica-modifica-crop-u1314183.jpg" crc="305750841" seo="true" ref="maternità">
+    <file name="20160504-150929-0013-modifica-modifica-crop-u1314183.jpg" crc="305750841" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160922-195114-0023-modifica-modifica-crop-u1317183.jpg" crc="3832492360" seo="true" ref="maternità">
+    <file name="20160922-195114-0023-modifica-modifica-crop-u1317183.jpg" crc="3832492360" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161004-114228-0026-modifica-crop-u1318683.jpg" crc="3841705249" seo="true" ref="maternità">
+    <file name="20161004-114228-0026-modifica-crop-u1318683.jpg" crc="3841705249" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161217-122506-0115-modifica-crop-u1319433.jpg" crc="3941858336" seo="true" ref="maternità">
+    <file name="20161217-122506-0115-modifica-crop-u1319433.jpg" crc="3941858336" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="galleria_matern_sfondo-page-fr3.jpg" crc="3939975114" ref="maternità"/>
-    <file name="20160924-183440-0705-modifica390x260.jpg" crc="4097561448" seo="true" ref="maternità">
+    <file name="galleria_matern_sfondo-page-fr3.jpg" crc="3939975114" ref="maternita"/>
+    <file name="20160924-183440-0705-modifica390x260.jpg" crc="4097561448" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161004-121104-0038-modifica-crop-u1279684.jpg" crc="3776069364" seo="true" ref="maternità">
+    <file name="20161004-121104-0038-modifica-crop-u1279684.jpg" crc="3776069364" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161018-174156-0067-modifica390x260.jpg" crc="251795780" seo="true" ref="maternità">
+    <file name="20161018-174156-0067-modifica390x260.jpg" crc="251795780" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161018-175335-0079-modifica390x260.jpg" crc="3762936947" seo="true" ref="maternità">
+    <file name="20161018-175335-0079-modifica390x260.jpg" crc="3762936947" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20130910-084840-0059-modifica-crop-u1281934.jpg" crc="4069728725" seo="true" ref="maternità">
+    <file name="20130910-084840-0059-modifica-crop-u1281934.jpg" crc="4069728725" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20130910-092414-0094-modifica-modifica462x260.jpg" crc="3887109548" seo="true" ref="maternità">
+    <file name="20130910-092414-0094-modifica-modifica462x260.jpg" crc="3887109548" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20131108-100535-0087-modifica391x260.jpg" crc="4263502683" seo="true" ref="maternità">
+    <file name="20131108-100535-0087-modifica391x260.jpg" crc="4263502683" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20131108-105130-0160-modifica463x260.jpg" crc="169635633" seo="true" ref="maternità">
+    <file name="20131108-105130-0160-modifica463x260.jpg" crc="169635633" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20131108-112103-0207-modifica-2-modifica-modifica391x260.jpg" crc="4205638333" seo="true" ref="maternità">
+    <file name="20131108-112103-0207-modifica-2-modifica-modifica391x260.jpg" crc="4205638333" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20140521-170859-0047-modifica-crop-u1285684.jpg" crc="3773968642" seo="true" ref="maternità">
+    <file name="20140521-170859-0047-modifica-crop-u1285684.jpg" crc="3773968642" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20140521-180924-0169-modifica463x260.jpg" crc="458508437" seo="true" ref="maternità">
+    <file name="20140521-180924-0169-modifica463x260.jpg" crc="458508437" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20140619-182136-0058-modifica-3-crop-u1287184.jpg" crc="215379852" seo="true" ref="maternità">
+    <file name="20140619-182136-0058-modifica-3-crop-u1287184.jpg" crc="215379852" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20140619-185926-0113-modifica391x260.jpg" crc="505011668" seo="true" ref="maternità">
+    <file name="20140619-185926-0113-modifica391x260.jpg" crc="505011668" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20140929-132157-0203390x260.jpg" crc="4267276878" seo="true" ref="maternità">
+    <file name="20140929-132157-0203390x260.jpg" crc="4267276878" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141020-105946-0042-crop-u1290184.jpg" crc="9363545" seo="true" ref="maternità">
+    <file name="20141020-105946-0042-crop-u1290184.jpg" crc="9363545" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141020-110222-0048-crop-u1290934.jpg" crc="3968332869" seo="true" ref="maternità">
+    <file name="20141020-110222-0048-crop-u1290934.jpg" crc="3968332869" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141023-094428-0022390x260.jpg" crc="222262672" seo="true" ref="maternità">
+    <file name="20141023-094428-0022390x260.jpg" crc="222262672" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141027-112634-0043390x260.jpg" crc="165234323" seo="true" ref="maternità">
+    <file name="20141027-112634-0043390x260.jpg" crc="165234323" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141027-124525-0117-crop-u1293184.jpg" crc="308380642" seo="true" ref="maternità">
+    <file name="20141027-124525-0117-crop-u1293184.jpg" crc="308380642" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141108-115501-0026-crop-u1293934.jpg" crc="486545157" seo="true" ref="maternità">
+    <file name="20141108-115501-0026-crop-u1293934.jpg" crc="486545157" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141124-113244-0066-modifica-crop-u1294684.jpg" crc="48290791" seo="true" ref="maternità">
+    <file name="20141124-113244-0066-modifica-crop-u1294684.jpg" crc="48290791" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141204-110447-0443-crop-u1295434.jpg" crc="514997357" seo="true" ref="maternità">
+    <file name="20141204-110447-0443-crop-u1295434.jpg" crc="514997357" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141205-163918-0614370x278.jpg" crc="4267582409" seo="true" ref="maternità">
+    <file name="20141205-163918-0614370x278.jpg" crc="4267582409" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141213-115945-0027-crop-u1296934.jpg" crc="452960495" seo="true" ref="maternità">
+    <file name="20141213-115945-0027-crop-u1296934.jpg" crc="452960495" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150423-165605-0708-modifica-crop-u1297684.jpg" crc="33219901" seo="true" ref="maternità">
+    <file name="20150423-165605-0708-modifica-crop-u1297684.jpg" crc="33219901" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150607-185805-0012-modifica391x260.jpg" crc="353528924" seo="true" ref="maternità">
+    <file name="20150607-185805-0012-modifica391x260.jpg" crc="353528924" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150711-191637-0013-modifica-crop-u1300684.jpg" crc="143429073" seo="true" ref="maternità">
+    <file name="20150711-191637-0013-modifica-crop-u1300684.jpg" crc="143429073" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150719-203426-0171-modifica460x260.jpg" crc="4011541141" seo="true" ref="maternità">
+    <file name="20150719-203426-0171-modifica460x260.jpg" crc="4011541141" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151024-111701-0145-modifica391x260.jpg" crc="4040195325" seo="true" ref="maternità">
+    <file name="20151024-111701-0145-modifica391x260.jpg" crc="4040195325" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151103-115100-0410-modifica-crop-u1305184.jpg" crc="309666335" seo="true" ref="maternità">
+    <file name="20151103-115100-0410-modifica-crop-u1305184.jpg" crc="309666335" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151125-115756-0123-modifica-crop-u1305934.jpg" crc="4272182849" seo="true" ref="maternità">
+    <file name="20151125-115756-0123-modifica-crop-u1305934.jpg" crc="4272182849" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151125-120222-0127-modifica390x260.jpg" crc="225383561" seo="true" ref="maternità">
+    <file name="20151125-120222-0127-modifica390x260.jpg" crc="225383561" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150811-195641-0041-modifica390x260.jpg" crc="35685172" seo="true" ref="maternità">
+    <file name="20150811-195641-0041-modifica390x260.jpg" crc="35685172" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151128-135842-0012-modifica-crop-u1307434.jpg" crc="206529642" seo="true" ref="maternità">
+    <file name="20151128-135842-0012-modifica-crop-u1307434.jpg" crc="206529642" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151205-114115-0255-modifica-crop-u1308184.jpg" crc="307431586" seo="true" ref="maternità">
+    <file name="20151205-114115-0255-modifica-crop-u1308184.jpg" crc="307431586" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151031-174944-0365-modifica391x260.jpg" crc="303464891" seo="true" ref="maternità">
+    <file name="20151031-174944-0365-modifica391x260.jpg" crc="303464891" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151205-115353-0279-modifica-crop-u1308934.jpg" crc="4126959099" seo="true" ref="maternità">
+    <file name="20151205-115353-0279-modifica-crop-u1308934.jpg" crc="4126959099" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151218-123910-0729-modifica-crop-u1309684.jpg" crc="3989237385" seo="true" ref="maternità">
+    <file name="20151218-123910-0729-modifica-crop-u1309684.jpg" crc="3989237385" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160116-120909-0113-modifica390x260.jpg" crc="4079669539" seo="true" ref="maternità">
+    <file name="20160116-120909-0113-modifica390x260.jpg" crc="4079669539" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160116-121500-0129-modifica-crop-u1311184.jpg" crc="4075671889" seo="true" ref="maternità">
+    <file name="20160116-121500-0129-modifica-crop-u1311184.jpg" crc="4075671889" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160213-175955-0167-modifica390x260.jpg" crc="425155258" seo="true" ref="maternità">
+    <file name="20160213-175955-0167-modifica390x260.jpg" crc="425155258" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160222-123818-0048-modifica-crop-u1312684.jpg" crc="3959797280" seo="true" ref="maternità">
+    <file name="20160222-123818-0048-modifica-crop-u1312684.jpg" crc="3959797280" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160222-125636-0081-modifica-crop-u1313434.jpg" crc="4062748960" seo="true" ref="maternità">
+    <file name="20160222-125636-0081-modifica-crop-u1313434.jpg" crc="4062748960" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160504-150929-0013-modifica-modifica-crop-u1314184.jpg" crc="81335453" seo="true" ref="maternità">
+    <file name="20160504-150929-0013-modifica-modifica-crop-u1314184.jpg" crc="81335453" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160808-193143-0042-modifica390x260.jpg" crc="484544630" seo="true" ref="maternità">
+    <file name="20160808-193143-0042-modifica390x260.jpg" crc="484544630" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160809-195753-0125-modifica390x260.jpg" crc="517709643" seo="true" ref="maternità">
+    <file name="20160809-195753-0125-modifica390x260.jpg" crc="517709643" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160809-201438-0012-modifica407x260.jpg" crc="3780296272" seo="true" ref="maternità">
+    <file name="20160809-201438-0012-modifica407x260.jpg" crc="3780296272" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160922-195114-0023-modifica-modifica-crop-u1317184.jpg" crc="4185223878" seo="true" ref="maternità">
+    <file name="20160922-195114-0023-modifica-modifica-crop-u1317184.jpg" crc="4185223878" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161004-113442-0025-modifica390x260.jpg" crc="3926035623" seo="true" ref="maternità">
+    <file name="20161004-113442-0025-modifica390x260.jpg" crc="3926035623" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161004-114228-0026-modifica-crop-u1318684.jpg" crc="145642681" seo="true" ref="maternità">
+    <file name="20161004-114228-0026-modifica-crop-u1318684.jpg" crc="145642681" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161217-122506-0115-modifica-crop-u1319434.jpg" crc="168806106" seo="true" ref="maternità">
+    <file name="20161217-122506-0115-modifica-crop-u1319434.jpg" crc="168806106" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20131108-112103-0207-modifica391x260.jpg" crc="3955983600" seo="true" ref="maternità">
+    <file name="20131108-112103-0207-modifica391x260.jpg" crc="3955983600" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150607-193111-0157-modifica391x260.jpg" crc="3780681804" seo="true" ref="maternità">
+    <file name="20150607-193111-0157-modifica391x260.jpg" crc="3780681804" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161018-175145-0073-modifica390x260.jpg" crc="4173439159" seo="true" ref="maternità">
+    <file name="20161018-175145-0073-modifica390x260.jpg" crc="4173439159" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="galleria_matern_sfondo-page-fr4.jpg" crc="3792623293" ref="maternità"/>
-    <file name="20160924-183440-0705-modifica300x200.jpg" crc="4240017235" seo="true" ref="maternità">
+    <file name="galleria_matern_sfondo-page-fr4.jpg" crc="3792623293" ref="maternita"/>
+    <file name="20160924-183440-0705-modifica300x200.jpg" crc="4240017235" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161004-121104-0038-modifica-crop-u1279685.jpg" crc="350173199" seo="true" ref="maternità">
+    <file name="20161004-121104-0038-modifica-crop-u1279685.jpg" crc="350173199" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161018-174156-0067-modifica300x200.jpg" crc="4282791800" seo="true" ref="maternità">
+    <file name="20161018-174156-0067-modifica300x200.jpg" crc="4282791800" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161018-175335-0079-modifica300x200.jpg" crc="14603954" seo="true" ref="maternità">
+    <file name="20161018-175335-0079-modifica300x200.jpg" crc="14603954" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20130910-084840-0059-modifica-crop-u1281935.jpg" crc="3906518799" seo="true" ref="maternità">
+    <file name="20130910-084840-0059-modifica-crop-u1281935.jpg" crc="3906518799" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20130910-092414-0094-modifica-modifica-crop-u128268.jpg" crc="4290948620" seo="true" ref="maternità">
+    <file name="20130910-092414-0094-modifica-modifica-crop-u128268.jpg" crc="4290948620" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20131108-105130-0160-modifica-crop-u128418.jpg" crc="4277799157" seo="true" ref="maternità">
+    <file name="20131108-105130-0160-modifica-crop-u128418.jpg" crc="4277799157" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20140521-170859-0047-modifica-crop-u1285685.jpg" crc="4044131571" seo="true" ref="maternità">
+    <file name="20140521-170859-0047-modifica-crop-u1285685.jpg" crc="4044131571" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20140521-180924-0169-modifica-crop-u128643.jpg" crc="3806443720" seo="true" ref="maternità">
+    <file name="20140521-180924-0169-modifica-crop-u128643.jpg" crc="3806443720" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20140619-182136-0058-modifica-3-crop-u1287185.jpg" crc="38639777" seo="true" ref="maternità">
+    <file name="20140619-182136-0058-modifica-3-crop-u1287185.jpg" crc="38639777" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20140929-132157-0203300x200.jpg" crc="3907779431" seo="true" ref="maternità">
+    <file name="20140929-132157-0203300x200.jpg" crc="3907779431" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141020-105946-0042-crop-u1290185.jpg" crc="4116410823" seo="true" ref="maternità">
+    <file name="20141020-105946-0042-crop-u1290185.jpg" crc="4116410823" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141020-110222-0048-crop-u1290935.jpg" crc="4153039222" seo="true" ref="maternità">
+    <file name="20141020-110222-0048-crop-u1290935.jpg" crc="4153039222" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141023-094428-0022300x200.jpg" crc="364694492" seo="true" ref="maternità">
+    <file name="20141023-094428-0022300x200.jpg" crc="364694492" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141027-112634-0043300x200.jpg" crc="162434585" seo="true" ref="maternità">
+    <file name="20141027-112634-0043300x200.jpg" crc="162434585" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141027-124525-0117-crop-u1293185.jpg" crc="485092525" seo="true" ref="maternità">
+    <file name="20141027-124525-0117-crop-u1293185.jpg" crc="485092525" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141108-115501-0026-crop-u1293935.jpg" crc="3804582826" seo="true" ref="maternità">
+    <file name="20141108-115501-0026-crop-u1293935.jpg" crc="3804582826" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141124-113244-0066-modifica-crop-u1294685.jpg" crc="163978404" seo="true" ref="maternità">
+    <file name="20141124-113244-0066-modifica-crop-u1294685.jpg" crc="163978404" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141204-110447-0443-crop-u1295435.jpg" crc="220937033" seo="true" ref="maternità">
+    <file name="20141204-110447-0443-crop-u1295435.jpg" crc="220937033" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141205-163918-0614271x204.jpg" crc="4139238576" seo="true" ref="maternità">
+    <file name="20141205-163918-0614271x204.jpg" crc="4139238576" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141213-115945-0027-crop-u1296935.jpg" crc="223464882" seo="true" ref="maternità">
+    <file name="20141213-115945-0027-crop-u1296935.jpg" crc="223464882" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150423-165605-0708-modifica-crop-u1297685.jpg" crc="3912561956" seo="true" ref="maternità">
+    <file name="20150423-165605-0708-modifica-crop-u1297685.jpg" crc="3912561956" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150711-191637-0013-modifica-crop-u1300685.jpg" crc="4005511813" seo="true" ref="maternità">
+    <file name="20150711-191637-0013-modifica-crop-u1300685.jpg" crc="4005511813" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150719-203426-0171-modifica-crop-u130143.jpg" crc="3769283791" seo="true" ref="maternità">
+    <file name="20150719-203426-0171-modifica-crop-u130143.jpg" crc="3769283791" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151103-115100-0410-modifica-crop-u1305185.jpg" crc="120887118" seo="true" ref="maternità">
+    <file name="20151103-115100-0410-modifica-crop-u1305185.jpg" crc="120887118" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151125-115756-0123-modifica-crop-u1305935.jpg" crc="417529143" seo="true" ref="maternità">
+    <file name="20151125-115756-0123-modifica-crop-u1305935.jpg" crc="417529143" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151125-120222-0127-modifica300x200.jpg" crc="4236954891" seo="true" ref="maternità">
+    <file name="20151125-120222-0127-modifica300x200.jpg" crc="4236954891" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150811-195641-0041-modifica300x200.jpg" crc="3983647973" seo="true" ref="maternità">
+    <file name="20150811-195641-0041-modifica300x200.jpg" crc="3983647973" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151128-135842-0012-modifica-crop-u1307435.jpg" crc="3927462143" seo="true" ref="maternità">
+    <file name="20151128-135842-0012-modifica-crop-u1307435.jpg" crc="3927462143" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151205-114115-0255-modifica-crop-u1308185.jpg" crc="335230623" seo="true" ref="maternità">
+    <file name="20151205-114115-0255-modifica-crop-u1308185.jpg" crc="335230623" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151205-115353-0279-modifica-crop-u1308935.jpg" crc="4164220569" seo="true" ref="maternità">
+    <file name="20151205-115353-0279-modifica-crop-u1308935.jpg" crc="4164220569" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151218-123910-0729-modifica-crop-u1309685.jpg" crc="436383372" seo="true" ref="maternità">
+    <file name="20151218-123910-0729-modifica-crop-u1309685.jpg" crc="436383372" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160116-120909-0113-modifica300x200.jpg" crc="4046149253" seo="true" ref="maternità">
+    <file name="20160116-120909-0113-modifica300x200.jpg" crc="4046149253" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160116-121500-0129-modifica-crop-u1311185.jpg" crc="4186509265" seo="true" ref="maternità">
+    <file name="20160116-121500-0129-modifica-crop-u1311185.jpg" crc="4186509265" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160222-123818-0048-modifica-crop-u1312685.jpg" crc="222476691" seo="true" ref="maternità">
+    <file name="20160222-123818-0048-modifica-crop-u1312685.jpg" crc="222476691" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160222-125636-0081-modifica-crop-u1313435.jpg" crc="14124174" seo="true" ref="maternità">
+    <file name="20160222-125636-0081-modifica-crop-u1313435.jpg" crc="14124174" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160504-150929-0013-modifica-modifica-crop-u1314185.jpg" crc="361833215" seo="true" ref="maternità">
+    <file name="20160504-150929-0013-modifica-modifica-crop-u1314185.jpg" crc="361833215" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160808-193143-0042-modifica300x200.jpg" crc="3791291335" seo="true" ref="maternità">
+    <file name="20160808-193143-0042-modifica300x200.jpg" crc="3791291335" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160809-195753-0125-modifica300x200.jpg" crc="316807076" seo="true" ref="maternità">
+    <file name="20160809-195753-0125-modifica300x200.jpg" crc="316807076" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160922-195114-0023-modifica-modifica-crop-u1317185.jpg" crc="4229621599" seo="true" ref="maternità">
+    <file name="20160922-195114-0023-modifica-modifica-crop-u1317185.jpg" crc="4229621599" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161004-113442-0025-modifica300x200.jpg" crc="3778488812" seo="true" ref="maternità">
+    <file name="20161004-113442-0025-modifica300x200.jpg" crc="3778488812" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161004-114228-0026-modifica-crop-u1318685.jpg" crc="464017498" seo="true" ref="maternità">
+    <file name="20161004-114228-0026-modifica-crop-u1318685.jpg" crc="464017498" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161217-122506-0115-modifica-crop-u1319435.jpg" crc="4092312775" seo="true" ref="maternità">
+    <file name="20161217-122506-0115-modifica-crop-u1319435.jpg" crc="4092312775" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="galleria_matern_sfondo-page-fr5.jpg" crc="319873074" ref="maternità"/>
-    <file name="20161004-121104-0038-modifica-crop-u1279686.jpg" crc="73800942" seo="true" ref="maternità">
+    <file name="galleria_matern_sfondo-page-fr5.jpg" crc="319873074" ref="maternita"/>
+    <file name="20161004-121104-0038-modifica-crop-u1279686.jpg" crc="73800942" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20130910-084840-0059-modifica-crop-u1281936.jpg" crc="62780195" seo="true" ref="maternità">
+    <file name="20130910-084840-0059-modifica-crop-u1281936.jpg" crc="62780195" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20130910-092414-0094-modifica-modifica-crop-u1282682.jpg" crc="4194651931" seo="true" ref="maternità">
+    <file name="20130910-092414-0094-modifica-modifica-crop-u1282682.jpg" crc="4194651931" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20131108-105130-0160-modifica-crop-u1284182.jpg" crc="9036692" seo="true" ref="maternità">
+    <file name="20131108-105130-0160-modifica-crop-u1284182.jpg" crc="9036692" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20140521-170859-0047-modifica-crop-u1285686.jpg" crc="3905583403" seo="true" ref="maternità">
+    <file name="20140521-170859-0047-modifica-crop-u1285686.jpg" crc="3905583403" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20140521-180924-0169-modifica-crop-u1286432.jpg" crc="3947292913" seo="true" ref="maternità">
+    <file name="20140521-180924-0169-modifica-crop-u1286432.jpg" crc="3947292913" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20140619-182136-0058-modifica-3-crop-u1287186.jpg" crc="227564210" seo="true" ref="maternità">
+    <file name="20140619-182136-0058-modifica-3-crop-u1287186.jpg" crc="227564210" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141020-105946-0042-crop-u1290186.jpg" crc="387922584" seo="true" ref="maternità">
+    <file name="20141020-105946-0042-crop-u1290186.jpg" crc="387922584" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141020-110222-0048-crop-u1290936.jpg" crc="459497516" seo="true" ref="maternità">
+    <file name="20141020-110222-0048-crop-u1290936.jpg" crc="459497516" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141027-124525-0117-crop-u1293186.jpg" crc="23910065" seo="true" ref="maternità">
+    <file name="20141027-124525-0117-crop-u1293186.jpg" crc="23910065" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141108-115501-0026-crop-u1293936.jpg" crc="3956439381" seo="true" ref="maternità">
+    <file name="20141108-115501-0026-crop-u1293936.jpg" crc="3956439381" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141124-113244-0066-modifica-crop-u1294686.jpg" crc="3861626091" seo="true" ref="maternità">
+    <file name="20141124-113244-0066-modifica-crop-u1294686.jpg" crc="3861626091" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141204-110447-0443-crop-u1295436.jpg" crc="42786900" seo="true" ref="maternità">
+    <file name="20141204-110447-0443-crop-u1295436.jpg" crc="42786900" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141205-163918-0614267x201.jpg" crc="471439734" seo="true" ref="maternità">
+    <file name="20141205-163918-0614267x201.jpg" crc="471439734" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20141213-115945-0027-crop-u1296936.jpg" crc="394598686" seo="true" ref="maternità">
+    <file name="20141213-115945-0027-crop-u1296936.jpg" crc="394598686" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150423-165605-0708-modifica-crop-u1297686.jpg" crc="3978367680" seo="true" ref="maternità">
+    <file name="20150423-165605-0708-modifica-crop-u1297686.jpg" crc="3978367680" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150711-191637-0013-modifica-crop-u1300686.jpg" crc="3829340752" seo="true" ref="maternità">
+    <file name="20150711-191637-0013-modifica-crop-u1300686.jpg" crc="3829340752" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150719-203426-0171-modifica-crop-u1301432.jpg" crc="405564758" seo="true" ref="maternità">
+    <file name="20150719-203426-0171-modifica-crop-u1301432.jpg" crc="405564758" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151103-115100-0410-modifica-crop-u1305186.jpg" crc="3939300833" seo="true" ref="maternità">
+    <file name="20151103-115100-0410-modifica-crop-u1305186.jpg" crc="3939300833" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151125-115756-0123-modifica-crop-u1305936.jpg" crc="256644781" seo="true" ref="maternità">
+    <file name="20151125-115756-0123-modifica-crop-u1305936.jpg" crc="256644781" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151128-135842-0012-modifica-crop-u1307436.jpg" crc="4224238167" seo="true" ref="maternità">
+    <file name="20151128-135842-0012-modifica-crop-u1307436.jpg" crc="4224238167" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151205-114115-0255-modifica-crop-u1308186.jpg" crc="362460295" seo="true" ref="maternità">
+    <file name="20151205-114115-0255-modifica-crop-u1308186.jpg" crc="362460295" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151205-115353-0279-modifica-crop-u1308936.jpg" crc="494847569" seo="true" ref="maternità">
+    <file name="20151205-115353-0279-modifica-crop-u1308936.jpg" crc="494847569" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20151218-123910-0729-modifica-crop-u1309686.jpg" crc="407170202" seo="true" ref="maternità">
+    <file name="20151218-123910-0729-modifica-crop-u1309686.jpg" crc="407170202" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160116-121500-0129-modifica-crop-u1311186.jpg" crc="367174556" seo="true" ref="maternità">
+    <file name="20160116-121500-0129-modifica-crop-u1311186.jpg" crc="367174556" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160222-123818-0048-modifica-crop-u1312686.jpg" crc="4181653761" seo="true" ref="maternità">
+    <file name="20160222-123818-0048-modifica-crop-u1312686.jpg" crc="4181653761" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160222-125636-0081-modifica-crop-u1313436.jpg" crc="50191821" seo="true" ref="maternità">
+    <file name="20160222-125636-0081-modifica-crop-u1313436.jpg" crc="50191821" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160504-150929-0013-modifica-modifica-crop-u1314186.jpg" crc="230521445" seo="true" ref="maternità">
+    <file name="20160504-150929-0013-modifica-modifica-crop-u1314186.jpg" crc="230521445" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20160922-195114-0023-modifica-modifica-crop-u1317186.jpg" crc="346584818" seo="true" ref="maternità">
+    <file name="20160922-195114-0023-modifica-modifica-crop-u1317186.jpg" crc="346584818" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161004-114228-0026-modifica-crop-u1318686.jpg" crc="271277305" seo="true" ref="maternità">
+    <file name="20161004-114228-0026-modifica-crop-u1318686.jpg" crc="271277305" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20161217-122506-0115-modifica-crop-u1319436.jpg" crc="3996410380" seo="true" ref="maternità">
+    <file name="20161217-122506-0115-modifica-crop-u1319436.jpg" crc="3996410380" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
     <file name="galleria_matrimoni_sfondo.jpg" crc="338681017" ref="matrimoni">
       <caption webpage="matrimoni" alt=""/>
@@ -6340,11 +7035,13 @@
     <file name="20150720-201613-0216-modifica-crop-u1502446.jpg" crc="168101573" seo="true" ref="ritratti">
       <caption webpage="ritratti" alt=""/>
     </file>
-    <file name="20140619-193104-0208-modifica394x260.jpg" crc="448650549" seo="true" ref="maternità">
+    <file name="20140619-193104-0208-modifica394x260.jpg" crc="448650549" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
-    <file name="20150607-192919-0134-modifica391x260.jpg" crc="323757996" seo="true" ref="maternità">
+    <file name="20150607-192919-0134-modifica391x260.jpg" crc="323757996" seo="true" ref="maternita">
       <caption webpage="maternità" alt=""/>
+      <caption webpage="maternita" alt=""/>
     </file>
     <file name="20160604-133949-0124-modifica301x200.jpg" crc="4255236511" seo="true" ref="matrimoni">
       <caption webpage="matrimoni" alt=""/>
@@ -6470,15 +7167,15 @@
       <caption webpage="prezzi" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3779102488" seo="true" mt="1492622766547" redirect="true"/>
-  <file name="chi-sono.html" crc="3955081163" seo="true" mt="1492622766547" redirect="true"/>
-  <file name="ritratti.html" crc="4108730663" seo="true" mt="1492622766547" redirect="true"/>
-  <file name="matrimoni.html" crc="3032156" seo="true" mt="1492622766547" redirect="true"/>
-  <file name="neonati.html" crc="3808133932" seo="true" mt="1492622766547" redirect="true"/>
-  <file name="contatti.html" crc="263550462" seo="true" mt="1492622766547" redirect="true"/>
-  <file name="info.html" crc="275875420" seo="true" mt="1492622766547" redirect="true"/>
-  <file name="studio.html" crc="189817687" seo="true" mt="1492622766547" redirect="true"/>
-  <file name="staff.html" crc="15881782" seo="true" mt="1492622766547" redirect="true"/>
-  <file name="maternità.html" crc="386230781" seo="true" mt="1492622766547" redirect="true"/>
-  <file name="prezzi.html" crc="207430932" seo="true" mt="1492622766809" redirect="true"/>
+  <file name="index.html" crc="110719140" seo="true" mt="1492628466917" redirect="true"/>
+  <file name="chi-sono.html" crc="3840311213" seo="true" mt="1492628466915" redirect="true"/>
+  <file name="ritratti.html" crc="3981198835" seo="true" mt="1492628466915" redirect="true"/>
+  <file name="matrimoni.html" crc="3960089110" seo="true" mt="1492628466915" redirect="true"/>
+  <file name="neonati.html" crc="3901336867" seo="true" mt="1492628466915" redirect="true"/>
+  <file name="contatti.html" crc="165782901" seo="true" mt="1492628466915" redirect="true"/>
+  <file name="info.html" crc="525364659" seo="true" mt="1492628466915" redirect="true"/>
+  <file name="studio.html" crc="3922149297" seo="true" mt="1492628466915" redirect="true"/>
+  <file name="staff.html" crc="289282423" seo="true" mt="1492628466915" redirect="true"/>
+  <file name="prezzi.html" crc="3950001895" seo="true" mt="1492628466915" redirect="true"/>
+  <file name="maternita.html" crc="3820484321" seo="true" mt="1492628466918" redirect="true"/>
 </manifest>
